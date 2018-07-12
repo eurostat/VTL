@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 
 public class VTLMain {
 
-static boolean vtlOnly = false ;
+static boolean vtl20only = false ;
 
 /*
  * Command-line interpreter. Usage: 
@@ -29,7 +29,7 @@ public static void main ( String [] args )
   	
 	if ( args.length < 3 || args.length > 5 ) {
 		Sys.printStdOut ( "\nUsage: " ) ;
-		Sys.printStdOut ( "vtl.jar databaseUrl username password { -createmetabase | -readonly | -vtlonly | -x commandFile }" ) ; 
+		Sys.printStdOut ( "vtl.jar databaseUrl username password { -createmetabase | -readonly | -vtl2.0 | -x commandFile }" ) ; 
 		return ;
 	}
 	
@@ -42,7 +42,7 @@ public static void main ( String [] args )
 			switch ( args[3] ) {
 				case "-readonly" : read_only = true ; break ;
 				case "-createmetabase" : create_metabase = true ; break ;
-				case "-vtlonly" : vtlOnly = true ; break ;
+				case "-vtl2.0" : vtl20only = true ; break ;
 			}
 			break ;
 		case 5 : 

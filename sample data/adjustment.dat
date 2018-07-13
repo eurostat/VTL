@@ -1,0 +1,13 @@
+adjustment	label_en
+_Z	Not applicable
+C	Trend-cycle data, calendar adjusted
+I	Irregular component
+K	Calendar component
+M	Seasonal and calendar components
+N	Neither seasonally adjusted nor calendar adjusted data
+R	Trend-cycle data, not calendar adjusted
+S	Seasonally adjusted data, not calendar adjusted
+T	Trend
+W	Calendar adjusted data, not seasonally adjusted
+X	Seasonal component
+Y	Calendar and seasonally adjusted data

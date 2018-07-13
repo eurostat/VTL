@@ -1,0 +1,23 @@
+accounting_entry	label_en
+_X	Unspecified
+_Z	Not applicable
+A	Assets (Net Acquisition of)
+AD	Gross sales of assets (decrease)
+AI	Gross acquisition of assets (increase)
+AS	Assets - short position
+B	Balance (Credits minus Debits)
+C	Credit (Resources)
+CL	Contingent liabilities (EDP and GFS)
+D	Debit (Uses)
+FI	Inflows (reserves template)
+FN	Net flows (reserves template) 
+FO	Outflows (reserves template)
+II	Net income on inward FDI
+IO	Net income on outward FDI
+L	Liabilities (Net Incurrence of)
+LD	Gross decrease in liabilities
+LI	Gross incurrence of liabilities
+N	Net (Assets minus Liabilities)
+NE	Net Liabilities (Liabilities minus Assets)
+NI	Net FDI Inward 
+NO	Net FDI Outward

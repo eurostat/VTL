@@ -1,0 +1,842 @@
+counterpart_area	label_en
+E1X	Europe Excluding OECD countries
+E1X1	Europe Excluding OECD countries (Fixed composition-35 members)
+P0	OECD countries (evolving composition)
+P4	OECD countries (fixed composition-35 members)
+P10	World Excluding OECD countries (fixed composition-35 members)
+P1	OECD countries (fixed composition-34 members)
+P9	World Excluding OECD countries (fixed composition-34 members)
+E1X0	Europe Excluding OECD countries (Fixed composition-34 members)
+4J8	Other small European Union Institutions and agencies (Ombudsman, Data Protection Supervisor etc.)
+4J81	Agency for the Cooperation of Energy Regulators
+4J82	Body of European Regulators for Electronic Communications
+4J83	Community Plant Variety Office
+4J84	Computer Emergency Response Team
+4J85	European Agency for Safety and Health at Work
+4J86	European Agency for the Management of Operational Cooperation at the External Borders
+4J87	European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice 
+4J88	European Asylum Support Office
+4J89	European Aviation Safety Agency
+4J810	European Centre for Disease Prevention and Control
+4J811	European Centre for the Development of Vocational Training
+4J812	European Chemicals Agency
+4J813	European Data Protection Supervisor
+4J814	European Defence Agency
+4J815	European Environment Agency
+4J816	European External Action Service
+4J817	European Fisheries Control Agency
+4J818	European Food Safety Authority
+4J819	European Foundation for the Improvement of Living and Working Conditions
+4J820	European GNSS Agency
+4J821	European Institute for Gender Equality
+4J822	European Institute of Innovation and Technology
+4J823	European Maritime Safety Agency
+4J824	European Medicines Agency
+4J825	European Monitoring Centre for Drugs and Drug Addiction
+4J826	European Network and Information Security Agency
+4J827	European Ombudsman
+4J828	European Personnel Selection Office
+4J829	European Police College
+4J830	European Police Office
+4J831	European Public Prosecutor's Office (in preparation)
+4J832	European Railway Agency
+4J833	European School of Administration
+4J834	European Training Foundation
+4J835	European Union Agency for Fundamental Rights
+4J836	European Union Institute for Security Studies
+4J837	European Union Intellectual Property Office
+4J838	European Union Satellite Centre
+4J839	Publications Office of the European Union
+4J840	The European Union’s Judicial Cooperation Unit
+4J841	Translation Centre for the Bodies of the European Union
+4J842	ATHENA Mechanism
+7N	Development Bank of Latin America (Banco de Desarrollo de America Latina)
+7O	The Eastern and Southern African Trade and Development Bank
+5Z1	Africa Finance Corporation
+5Z2	African Development Bank Group
+6A1	African Union 
+5z3	Arab Fund for Economic and Social Development
+5Z4	Asian Clearing Union
+6A2	Association of Southeast Asian Nations 
+6A3	Caribbean Community and Common Market 
+6A4	Central American Common Market 
+5Z5	Colombo Plan
+6A5	East African Development Bank
+5Z6	Economic Community of West African States 
+6A6	ECOWAS Bank for Investment and Development
+5Z7	European Free Trade Association 
+5Z8	Fusion for Energy
+5Z9	Intergovernmental Council of Copper Exporting Countries 
+5Z10	International Civil Aviation Organization 
+5Z11	International Cocoa Organization 
+5Z12	International Coffee Organization 
+5Z13	International Copper Study Group
+5Z14	International Cotton Advisory Committee 
+5Z15	International Grains Council 
+5Z16	International Jute Study Group 
+5Z17	International Lead and Zinc Study Group 
+5Z18	International Maritime Organization 
+5Z19	International Maritime Satellite Organization 
+5Z20	International Olive Oil Council 
+5Z21	International Rubber Study Group 
+5Z22	International Sugar Organization 
+5Z23	Latin American and the Caribbean Economic System 
+6A7	Latin American Association of Development Financing Institutions 
+5Z24	Latin American Energy Organization 
+5Z25	Latin American Integration Association 
+5Z26	League of Arab States 
+6A8	OPEC Fund for International Development 
+5Z27	Organisation of Eastern Caribbean States 
+5Z28	Organization of American States 
+5Z29	Organization of Arab Petroleum Exporting Countries 
+5Z30	Organization of Central American States 
+5Z31	Organization of the Petroleum Exporting Countries 
+5Z33	South Asian Association for Regional Cooperation 
+5Z34	United Nations Conference on Trade and Development 
+1V	Universal Postal Union 
+5Z35	West African Economic Community 
+5Z36	West African Health Organisation
+5Z37	West African Monetary Agency 
+5Z38	West African Monetary Institute
+5Z39	World Council of Churches 
+5Z40	World Intellectual Property Organization 
+5Z41	World Meteorological Organization 
+5Z42	World Tourism Organization
+B6	European Union except United Kingdom (27 countries)
+B60	European Union except United Kingdom (27 countries) and excluding EU institutions
+D1	Extra-EU 28 (fixed composition) excluding CA, RU, CH, TR, US, F2, E4, B2, as of 1 July 2013
+D2	Extra-EU 28 (fixed composition) excluding CA, RU, CH, TR, US, F2, E4, B2, as of 1 July 2013
+D3	Extra-EU 28 (fixed composition) excluding CA, RU, CH, TR, US, F2, E4, B2, as of 1 July 2013
+D4	Extra-EU 28 (fixed composition) excluding CA, RU, CH, TR, US, F2, E4, B2, as of 1 July 2013
+D5	Extra-EU 28 (fixed composition) excluding CA, RU, CH, TR, US, F2, E4, B2, as of 1 July 2013
+D5A	Extra-EU 28 (fixed composition) excluding CA, RU, CH, TR, US, F2, E4, B2, as of 1 July 2013
+D5B	Extra-EU 28 (fixed composition) excluding CA, RU, CH, TR, US, F2, E4, B2, as of 1 July 2013
+D5C	Extra-EU 28 (fixed composition) excluding CA, RU, CH, TR, US, F2, E4, B2, as of 1 July 2013
+Q1	EU 27 member states, outside the euro area 13, excluding DK, SE, GB (CY,CZ,EE,HU,LV,LT,MT,PL,SK,RO,BG) as of 1 January 2007
+Q2	EU 27 member states, outside the euro area 15, excluding DK, SE, GB (CZ,EE,HU,LV,LT,PL,SK,RO,BG) as of 1 January 2008
+Q3	EU 27 member states, outside the euro area 16, excluding DK, SE, GB (CZ,EE,HU,LV,LT,PL,RO,BG) as of 1 January 2009
+Q4	EU 27 member states, outside the euro area 17, excluding DK, SE, GB (CZ,HU,LV,LT,PL,RO,BG) as of 1 January 2011
+Q5	EU 28 member states, outside the euro area 17, excluding DK, SE, GB (CZ,HU,LV,LT,PL,RO,BG) as of 1 July 2013
+Q6	EU 28 member states, outside the euro area 18, excluding DK, SE, GB (CZ,HU,LT,PL,RO,BG) as of 1 January 2014
+Q7	EU 28 member states, outside the euro area 19, excluding DK, SE, GB (CZ,HR,HU,PL,RO,BG) as of 1 January 2015
+K1	EU member states not belonging to Euro area 11 (fixed composition) as of 1 January 1999
+K2	EU member states not belonging to Euro area 12 (fixed composition) as of 1 January 2001
+K3	EU member states not belonging to Euro area 13 (fixed composition) as of 1 January 2007
+K4	EU member states not belonging to Euro area 15 (fixed composition) as of 1 January 2008
+K5	EU member states not belonging to Euro area 16 (fixed composition) as of 1 January 2009
+K6	EU27 member states not belonging to Euro area 17 (fixed composition) as of 1 January 2011
+K7	EU28 member states not belonging to Euro area 17 (fixed composition) as of 1 July 2013
+K8	EU28 member states not belonging to Euro area 18 (fixed composition) as of 1 January 2014
+K8A	Other EU countries, i.e. EU28 member states not belonging to Euro area 18 (fixed composition) - United Kingdom - EU institutions ) as of 1 January 2014
+K9	EU28 member states not belonging to Euro area 19 (fixed composition) as of 1 January 2015
+K9A	EU28 member states not belonging to Euro area 19 (fixed composition) - United Kingdom - EU institutions as of 1 January 2015
+I1	Euro area 11 (fixed composition) as of 1 January 1999
+I19	Euro area 11 (fixed composition) not allocated as of 1 January 1999
+I2	Euro area 12 (fixed composition) as of 1 January 2001
+I29	Euro area 12 (fixed composition) not allocated as of 1 January 2001
+I3	Euro area 13 (fixed composition) as of 1 January 2007
+I39	Euro area 13 (fixed composition) not allocated as of 1 January 2007
+I4	Euro area 15 (fixed composition) as of 1 January 2008
+I49	Euro area 15 (fixed composition) not allocated as of 1 January 2008
+I5	Euro area 16 (fixed composition) as of 1 January 2009
+I59	Euro area 16 (fixed composition) not allocated as of 1 January 2009
+I6	Euro area 17 (fixed composition) as of 1 January 2011
+I69	Euro area 17 (fixed composition) not allocated as of 1 January 2011
+I7	Euro area 18 (fixed composition) as of 1 January 2014
+I79	Euro area 18 (fixed composition) not allocated as of 1 January 2014
+I8	Euro area 19 (fixed composition) as of 1 January 2015
+I89	Euro area 19 (fixed composition) not allocated as of 1 January 2014
+J1	Extra-Euro area 11 (fixed composition) as of 1 January 1999
+J19	Extra-Euro area 11 (fixed composition) not allocated as of 1 January 1999
+J2	Extra-Euro area 12 (fixed composition) as of 1 January 2001
+J29	Extra-Euro area 12 (fixed composition) not allocated as of 1 January 2001
+J3	Extra-Euro area 13 (fixed composition) as of 1 January 2007
+J39	Extra-Euro area 13 (fixed composition) not allocated) as of 1 January 2007
+J4	Extra-Euro area 15 (fixed composition) as of 1 January 2008
+J49	Extra-Euro area 15 (fixed composition) not allocated as of 1 January 2008
+J5	Extra-Euro area 16 (fixed composition) as of 1 January 2009
+J59	Extra-Euro area 16 (fixed composition) not allocated as of 1 January 2009
+J6	Extra-Euro area 17 (fixed composition) as of 1 January 2011
+J69	Extra-Euro area 17 (fixed composition) not allocated as of 1 January 2011
+J7	Extra-Euro area 18 (fixed composition) as of 1 January 2014
+J79	Extra-Euro area 18 (fixed composition) not allocated as of 1 January 2014
+J8	Extra-Euro area 19 (fixed composition) as of 1 January 2015
+J89	Extra-Euro area 19 (fixed composition) not allocated as of 1 January 2015
+L1	Other Euro area 11 member states (fixed composition - all countries except the reference area) as of 1 January 1999
+L2	Other Euro area 12 member states (fixed composition - all countries except the reference area) as of 1 January 2001
+L3	Other Euro area 13 member states (fixed composition - all countries except the reference area) as of 1 January 2007
+L4	Other Euro area 15 member states (fixed composition - all countries except the reference area) as of 1 January 2008
+L5	Other Euro area 16 member states (fixed composition - all countries except the reference area) as of 1 January 2009
+L6	Other Euro area 17 member states (fixed composition - all countries except the reference area) as of 1 January 2011
+L7	Other Euro area 18 member states (fixed composition - all countries except the reference area) as of 1 January 2014
+L8	Other Euro area 19 member states (fixed composition - all countries except the reference area) as of 1 January 2015
+M1	All areas other than Euro area 11 (fixed composition) and reference/home area as of 1 January 1999
+M2	All areas other than Euro area 12 (fixed composition) and reference/home area as of 1 January 2001
+M3	All areas other than Euro area 13 (fixed composition) and reference/home area as of 1 January 2007
+M4	All areas other than Euro area 15 (fixed composition) and reference/home area as of 1 January 2008
+M5	All areas other than Euro area 16 (fixed composition) and reference/home area as of 1 January 2009
+M6	All areas other than Euro area 17 (fixed composition) and reference/home area as of 1 January 2011
+M7	All areas other than Euro area 18 (fixed composition) and reference/home area as of 1 January 2014
+M8	All areas other than Euro area 19 (fixed composition) and reference/home area as of 1 January 2015
+Z10	EU 12 (fixed composition) including West Germany as of 1 November 1993
+Z3	Euro area 11 (fixed composition) excluding LU as of 1 January 1999
+Z6	All areas other than EU 15 (fixed composition) and reference/home area as of 1 January 1995
+Z9	EU 15 (fixed composition) excluding LU as of 1 January 1995
+_X	Not allocated/ unspecified
+_Z	Not applicable
+1A	International organisations
+1B	UN organisations
+1C	IMF (International Monetary Fund)
+1D	WTO (World Trade Organisation)
+1E	IBRD (International Bank for Reconstruction and Development)
+1F	IDA (International Development Association)
+1G	ICSID (International Centre for Settlement of Investment Disputes) 
+1H	UNESCO (United Nations Educational, Scientific and Cultural Organisation)
+1J	FAO (Food and Agriculture Organisation)
+1K	WHO (World Health Organisation)
+1L	IFAD (International Fund for Agricultural Development)
+1M	IFC (International Finance Corporation)
+1N	MIGA (Multilateral Investment Guarantee Agency)
+1O	UNICEF (United Nations Children Fund)
+1P	UNHCR (United Nations High Commissioner for Refugees)
+1Q	UNRWA (United Nations Relief and Works Agency for Palestine)
+1R	IAEA (International Atomic Energy Agency)
+1S	ILO (International Labour Organisation)
+1T	ITU (International Telecommunication Union)
+1U	Rest of UN Organisations n.i.e.
+1U1	UNECE (United Nations Economic Commission for Europe)
+1W	World Bank Group
+4A	All the European Union Institutions excluding the institutions of the euro area (changing composition)
+4AA	All the European Union Institutions excluding the ECB
+4B	EMS (European Monetary System)
+4C	EIB (European Investment Bank)
+4D	European Commission
+4DJ	All the European Union Institutions financed via the EU Budget
+4E	EDF (European Development Fund)
+4F	ECB (European Central Bank)
+4G	EIF (European Investment Fund)
+4H	European Coal and Steel Community
+4I	Neighbourhood Investment Facility
+4J	Other European Union Institutions, Organs and Organisms covered by General budget
+4J1	European Parliament
+4J2	Council of the European Union 
+4J3	Court of Justice
+4J4	Court of Auditors
+4J5	European Council
+4J6	Economic and Social Committee
+4J7	Committee of Regions
+4M	SRB (Single Resolution Board)
+4R	EU-Africa Infrastructure Trust Fund
+4S	ESM (European Stability Mechanism)
+4T	Joint Committee of the European Supervisory Authorities (ESAs)
+4T1	EBA (European Banking Authority)
+4T2	ESMA (European Securities and Markets Authority)
+4T3	EIOPA (European Insurance and Occupational Pensions Authority)
+4U	EURATOM
+4V	FEMIP (Facility for Euro-Mediterranean Investment and Partnership)
+4X	All the European Union Institutions not financed via the EU Budget
+4Y	All European Community Institutions, Organs and Organisms, including ECB and ESM
+5A	Other International Organisations (financial institutions)
+5AA	Multilateral Lending Agencies
+5B	BIS (Bank for International Settlements)
+5C	IADB (Inter-American Development Bank)
+5D	AfDB (African Development Bank)
+5E	AsDB (Asian Development Bank)
+5F	EBRD (European Bank for Reconstruction and Development)
+5G	IIC (Inter-American Investment Corporation)
+5H	NIB (Nordic Investment Bank)
+5I	ECCB (Eastern Caribbean Central Bank)
+5J	IBEC (International Bank for Economic Co-operation)
+5K	IIB (International Investment Bank)
+5L	CDB (Caribbean Development Bank)
+5M	AMF (Arab Monetary Fund)
+5N	BADEA (Banque arabe pour le développement économique en Afrique)
+5O	BCEAO (Banque Centrale des Etats de l`Afrique de l`Ouest)
+5P	CASDB (Central African States Development Bank)
+5Q	African Development Fund
+5R	Asian Development Fund
+5S	Fonds spécial unifié de développement
+5T	CABEI (Central American Bank for Economic Integration)
+5U	ADC (Andean Development Corporation)
+5W	BEAC (Banque des Etats de l`Afrique Centrale)
+5X	Asian Infrastructure Investment Bank 
+5Z	Other International Financial Organisations n.i.e.
+6A	Other International Organisations (non-financial institutions)
+6B	NATO (North Atlantic Treaty Organisation)
+6C	Council of Europe
+6D	ICRC (International Committee of the Red Cross)
+6E	ESA (European Space Agency)
+6F	EPO (European Patent Office)
+6G	EUROCONTROL (European Organisation for the Safety of Air Navigation)
+6H	EUTELSAT (European Telecommunications Satellite Organisation)
+6I	EMBL (European Molecular Biology Laboratory)
+6J	INTELSAT (International Telecommunications Satellite Organisation)
+6K	EBU/UER (European Broadcasting Union/Union européenne de radio-télévision)
+6L	EUMETSAT (European Organisation for the Exploitation of Meteorological Satellites)
+6M	ESO (European Southern Observatory)
+6N	ECMWF (European Centre for Medium-Range Weather Forecasts)
+6O	OECD (Organisation for Economic Co-operation and Development)
+6P	CERN (European Organisation for Nuclear Research)
+6Q	IOM (International Organisation for Migration)
+6Z	Other International Non-Financial Organisations n.i.e.
+7A	WAEMU (West African Economic and Monetary Union)
+7B	IDB (Islamic Development Bank)
+7C	EDB (Eurasian Development Bank )
+7D	Paris Club Creditor Institutions
+7E	CEB (Council of Europe Development Bank)
+7F	International Union of Credit and Investment Insurers
+7G	Black Sea Trade and Development Banks
+7H	AFREXIMBANK (African Export-Import Bank)
+7I	BLADEX (Banco Latino Americano De Comercio Exterior)
+7J	FLAR (Fondo Latino Americano de Reservas)
+7K	Fonds Belgo-Congolais d'Amortissement et de Gestion
+7L	IFFIm (International finance Facility for Immunisation)
+7M	EUROFIMA (European Company for the Financing of Railroad Rolling Stock)
+9A	International Organisations excluding European Union Institutions 
+9B	International organization excluding the BIS and the IMF
+A1	America
+A10	Western Hemisphere
+A109	Western Hemisphere not allocated
+A19	America not allocated
+A1X	America Excluding OECD countries
+A1X0	America Excluding OECD countries (Fixed composition)
+A2	North American countries
+A29	North America not allocated deprecated
+A2A3	North and Central American countries (CDIS)
+A2A39	North and Central American countries Not Allocated (CDIS)
+A2X	North America Excluding OECD countries
+A3	Central America (UN composition, namely Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua and Panama) deprecated
+A39	Central America not allocated deprecated
+A3X	Central America Excluding OECD countries deprecated
+A4	Caribbean deprecated
+A41	Windward Islands
+A42	Leeward Islands
+A49	Caribbean not allocated deprecated
+A5	Central America and Carribean countries
+A5X	Central America and Caribbean countries excluding OECD countries
+A6	North Atlantic & Caribbean
+A69	North Atlantic & Caribbean not allocated
+A7	South American countries
+A79	South America not allocated deprecated
+A7E	South American Economies (CDIS)
+A7E9	South American Economies Not Allocated (CDIS)
+A7X	South America Excluding OECD countries
+A7X0	South America Excluding OECD countries (Fixed composition)
+A8	Latin America
+A84	Latin American NICs of the second wave of industrialization
+A9	Latin America & Carribean
+A99	Latin America & Carribean not allocated
+AD	Andorra
+AE	United Arab Emirates
+AE1	Abu Dhabi
+AE2	Dubai
+AF	Afghanistan
+AG	Antigua and Barbuda
+AI	Anguilla
+AL	Albania
+AM	Armenia
+AN	Netherlands Antilles
+AO	Angola
+AQ	Antarctica
+AR	Argentina
+AS	American Samoa
+AT	Austria
+AU	Australia
+AW	Aruba
+AX	Aland Islands
+AZ	Azerbaijan
+B0	EU (Member States and Institutions of the European Union) changing composition
+B00	EU (Member States of the European Union) changing composition, excluding EU Institutions
+B09	EU  (Member States and Institutions of the European Union) changing composition, not allocated
+B1	EU12 (fixed composition)
+B10	EU12 excluding EU institutions
+B2	EU15 (fixed composition)
+B20	EU15 excluding EU institutions
+B3	EU25 (fixed composition)
+B30	EU25 excluding EU institutions
+B4	EU 27 (fixed composition)
+B40	EU27 excluding EU institutions
+B5	EU28 (fixed composition)
+B50	EU28 excluding EU institutions
+BA	Bosnia and Herzegovina
+BB	Barbados
+BD	Bangladesh
+BE	Belgium
+BF	Burkina Faso
+BG	Bulgaria
+BH	Bahrain
+BI	Burundi
+BJ	Benin
+BL	Saint Barthelemy
+BM	Bermuda
+BN	Brunei Darussalam
+BO	Bolivia
+BQ	Bonaire, Saint Eustatius and Saba
+BR	Brazil
+BS	Bahamas
+BT	Bhutan
+BV	Bouvet Island
+BW	Botswana
+BY	Belarus
+BZ	Belize
+C0	Candidate Countries (Changing composition) 
+C1	Candidate countries (HR, MK, TR)
+C2	Candidate countries (HR,IS,MK,TR)
+C3	Candidate countries (HR,IS,ME,MK,TR)
+C4	Candidate countries (IS,ME,MK,RS,TR)
+C5	Candidate countries (AL,ME,MK,RS,TR)
+C98	New EU member states joining in 2004 and 2007 (BG,CY,CZ,EE,HU,LV,LT,MT,PL,RO,SK,SI)
+C99	New EU member states 2004 (CY,CZ,EE,HU,LV,LT,MT,PL,SK,SI)
+CA	Canada
+CC	Cocos (Keeling) Islands
+CD	Congo, the Democratic Republic of the
+CF	Central African Republic
+CG	Congo
+CH	Switzerland
+CI	Cote d`Ivoire
+CK	Cook Islands
+CL	Chile
+CM	Cameroon
+CN	China
+CO	Colombia
+CR	Costa Rica
+CS	Serbia and Montenegro
+CS9	Serbia and Montenegro not allocated
+CSH	Former Czechoslovakia
+CSH9	Former Czechoslovakia not allocated
+CU	Cuba
+CV	Cape Verde
+CW	Curacao
+CX	Christmas Island
+CY	Cyprus
+CZ	Czech Republic
+D0	Extra-EU (changing composition)
+D09	Extra-EU (changing composition) not allocated
+DE	Germany
+DE1	West Germany
+DE2	East Germany
+DJ	Djibouti
+DK	Denmark
+DM	Dominica
+DO	Dominican Republic
+DZ	Algeria
+E1	Europe 
+E16O	OECD-EU deprecated
+E19	Europe not allocated
+E1E	European Economies (CDIS)
+E1E9	European Economies Not Allocated (CDIS)
+E2	Eastern Europe deprecated
+E29	Eastern Europe not allocated deprecated
+E2X	Eastern Europe Excluding OECD countries deprecated
+E3	Northern Europe deprecated
+E31	Baltic countries
+E39	Northern Europe not allocated deprecated
+E3X	Northern Europe Excluding OECD countries deprecated
+E4	Southern Europe deprecated
+E49	Southern Europe not allocated deprecated
+E4X	Southern Europe Excluding OECD countries deprecated
+E5	Western Europe deprecated
+E59	Western Europe not allocated deprecated
+E5X	Western Europe Excluding OECD countries deprecated
+E7	Central and Eastern Europe
+EC	Ecuador
+EE	Estonia
+EG	Egypt
+EH	Western Sahara
+ER	Eritrea
+ES	Spain
+ES1	Ceuta and Melilla
+ES11	Ceuta
+ES12	Melilla
+ES2	Canary Islands
+ET	Ethiopia
+F1	Africa
+F19	Africa not allocated
+F1XM	African Countries excluding Maghreb
+F2	Central and South Africa countries
+F3	Eastern Africa deprecated
+F39	Eastern Africa not allocated deprecated
+F4	North Africa
+F41	Maghreb countries
+F42	Mashrek Countries
+F49	North Africa not allocated
+F5	Middle Africa deprecated
+F59	Middle Africa not allocated deprecated
+F6	Sub-Saharan Africa
+F69	Sub-Saharan Africa not allocated
+F7	Southern Africa deprecated
+F79	Southern Africa not allocated deprecated
+F8	Western Africa deprecated
+F89	Western Africa not allocated deprecated
+F97	Middle East
+F979	Middle East not allocated
+F98	Middle East and North Africa (MENA)
+F99	Africa and Middle East countries
+FI	Finland
+FJ	Fiji
+FK	Falkland Islands (Malvinas)
+FM	Micronesia, Federated States of
+FO	Faroe Islands
+FR	France
+FR1	French West Indies
+FR19	French West Indies not allocated
+FR2	Wallis 
+G0	European Economic Area
+G1	Extra EEA
+G2	EEA except the euro area and reference area
+G3	Other EEA countries (all countries excluding the reference area)
+G4	Other European countries (not EU )
+G9	Other European countries (not EU nor EFTA)
+GA	Gabon
+GB	United Kingdom
+GB1	UK including Guernsey, Isle of Man, Jersey
+GB2	West Indies UK
+GB3	British Overseas Territories
+GD	Grenada
+GE	Georgia
+GF	French Guiana
+GG	Guernsey
+GH	Ghana
+GI	Gibraltar
+GL	Greenland
+GM	Gambia
+GN	Guinea
+GP	Guadeloupe
+GQ	Equatorial Guinea
+GR	Greece
+GS	South Georgia and the South Sandwich Islands
+GT	Guatemala
+GU	Guam
+GW	Guinea-Bissau
+GY	Guyana
+HK	Hong Kong, China
+HM	Heard Island and McDonald Islands
+HN	Honduras
+HR	Croatia
+HT	Haiti
+HU	Hungary
+ID	Indonesia
+IE	Ireland
+IL	Israel
+IM	Isle of Man
+IN	India
+IO	British Indian Ocean territory
+IQ	Iraq
+IR	Iran, Islamic Republic of
+IS	Iceland
+IT	Italy
+JE	Jersey
+JM	Jamaica
+JO	Jordan
+JP	Japan
+KE	Kenya
+KG	Kyrgyzstan
+KH	Cambodia
+KI	Kiribati
+KM	Comoros
+KN	Saint Kitts and Nevis
+KP	Korea, Democratic People`s Republic of
+KR	Korea, Republic of
+KW	Kuwait
+KY	Cayman Islands
+KZ	Kazakhstan
+LA	Lao People`s Democratic Republic
+LB	Lebanon
+LC	Saint Lucia
+LI	Liechtenstein
+LK	Sri Lanka
+LR	Liberia
+LS	Lesotho
+LT	Lithuania
+LU	Luxembourg
+LV	Latvia
+LY	Libya
+MA	Morocco
+MC	Monaco
+MD	Moldova, Republic of
+ME	Montenegro
+MF	Saint Martin (French part)
+MG	Madagascar
+MH	Marshall islands
+MK	Macedonia, The Former Yugoslav Republic of
+ML	Mali
+MM	Myanmar
+MN	Mongolia
+MO	Macao
+MP	Northern Mariana Islands
+MQ	Martinique
+MR	Mauritania
+MS	Montserrat
+MT	Malta
+MU	Mauritius
+MV	Maldives
+MW	Malawi
+MX	Mexico
+MY	Malaysia
+MY1	Sabah
+MY2	Sarawak
+MZ	Mozambique
+N1	CEMAC (Communauté Économique et Monétaire de l’Afrique Centrale) 
+N2	ECCU (Eastern Caribbean Currency Union)
+NA	Namibia
+NC	New Caledonia
+NE	Niger
+NF	Norfolk Island
+NG	Nigeria
+NI	Nicaragua
+NL	Netherlands
+NO	Norway
+NP	Nepal
+NR	Nauru
+NU	Niue
+NZ	New Zealand
+O1	Australia, Oceania and polar regions
+O19	Australia, Oceania and polar regions not allocated
+O1P	Polar regions
+O1X0	Australia, Oceania and Polar regions Excluding OECD countries
+O2	Oceania and Polar Regions
+O29	Oceania and Polar Regions not allocated
+O3	Oceania
+O39	Oceania not allocated
+O3A	Australian Oceania
+O3M	American Oceania
+O3Z	New Zealand Oceania
+O5	Other Oceania & Polar regions countries deprecated
+O6	Australia and New Zealand deprecated
+O69	Australia and New Zealand not allocated deprecated
+O6X0	Australia and New Zealand Excluding OECD countries deprecated
+O7	Melanesia deprecated
+O79	Melanesia  not allocated deprecated
+O8	Micronesia deprecated
+O89	Micronesia  not allocated deprecated
+O9	Polynesia deprecated
+O99	Polynesia not allocated deprecated
+OM	Oman
+P09	OECD not allocated deprecated
+P2	OECD Key partners
+P3	DAC Reporting Countries
+P8	World Excluding OECD countries
+PA	Panama
+PE	Peru
+PF	French Polynesia
+PG	Papua New Guinea
+PH	Philippines
+PK	Pakistan
+PL	Poland
+PM	Saint Pierre and Miquelon
+PN	Pitcairn
+PR	Puerto Rico
+PS	Palestine, State of
+PT	Portugal
+PW	Palau
+PY	Paraguay
+QA	Qatar
+R1	Belgo-Luxembourg Economic Union
+R109	Belgium-Luxembourg not allocated
+R11	Mediterranean Basin countries
+R12	Offshore financial centers
+R121	Offshore financial centers excluding Hong Kong 
+R13	French Franc zone
+R14	Community of Independent States (CIS)
+R14M	CIS & Mongolia 
+R15	Mercado comun de los paises del cono sur
+R16	APEC (Asia-Pacific Economic Co-operation)
+R17	Mediterranean countries in the European Unionro-Mediterranean Partnership
+R18	SADC (South African Development Community)
+R19	EAC (East African Community) deprecated
+R2	EFTA (European Free Trade Association)
+R22	G20 (Argentina, Australia, Brazil, Canada, China, European Union, France, Germany, India,Indonesia, Italy, Japan, Mexico, Russia, Saudi Arabia, South Africa, South Korea, Turkey, United Kingdom, United States)
+R220	G20 excluding European Union
+R221	G20 OECD countries
+R222	G20 Non-OECD countries 
+R23	Major Advanced Economies - G7
+R24	G8: G7 + Russia
+R25	Total Official Development Assistance (ODA) recipients
+R251	ODA recipients-Europe
+R252	ODA recipients-Africa
+R253	ODA recipients-America
+R254	ODA recipients-Asia
+R255	ODA recipients-Oceania
+R3	NAFTA (North American Free Trade Association)
+R4	ASEAN (Countries for the Association of South-East Asian Nations)
+R45	ASEAN-5
+R5	OPEC (Organization of Petroleum Exporting Countries)
+R51	OPEC (Organization of Petroleum Exporting Countries) (from 2016)
+R6	ACP (African, Caribbean and Pacific countries, Lomé convention)
+R61	African ACP countries
+R62	Caribbean ACP countries
+R63	Pacific ACP countries
+R7	BRIC
+R8	BRICS deprecated
+R9	Core Newly Industrializing Countries
+RE	Reunion
+RO	Romania
+RS	Serbia
+RU	Russian Federation
+RW	Rwanda
+S1	Asia
+S19	Asia not allocated
+S198	Asian NICs of the second wave of industrialization
+S1X	Asia Excluding OECD countries
+S1X0	Asia Excluding OECD countries (Fixed composition)
+S1X2	Asia excl. Japan
+S1X3	Asia excl. Japan & China
+S2	Eastern Asia
+S29	Eastern Asia not allocated
+S2X	Eastern Asia Excluding OECD countries deprecated
+S3	Near and Middle East countries
+S35	Gulf Arabian Countries
+S359	Gulf Arabian Countries not allocated deprecated
+S35E	Persian Gulf Economies (CDIS)
+S35E9	Persian Gulf Economies Not Allocated (CDIS)
+S37	Other Near and Middle East countries
+S379	Other Near and Middle East not allocated  deprecated
+S37E	Other Near and Middle East Economies (CDIS)
+S37E9	Other Near and Middle East Economies Not Allocated (CDIS)
+S37X	Other Near and Middle East Excluding OECD countries
+S37Z	Other Near and Middle East Excluding OECD countries (Fixed composition)
+S39	Near and Middle East not allocated  deprecated
+S3X	Near and Middle East Excluding OECD countries
+S3X0	Near and Middle East Excluding OECD countries (Fixed composition)
+S4	Central Asia deprecated
+S49	Central Asia not allocated deprecated
+S5	Central & South Asia
+S59	Central & South Asia not allocated 
+S6	Other Asian countries
+S6X	Other Asian countries excluding OECD countries
+S7	Southern Asia deprecated
+S79	Southern Asia not allocated deprecated
+S8	South-Eastern Asia  deprecated
+S89	South-Eastern Asia not allocated deprecated
+SA	Saudi Arabia
+SB	Solomon Islands
+SC	Seychelles
+SD	Sudan
+SE	Sweden
+SG	Singapore
+SH	Saint Helena
+SI	Slovenia
+SJ	Svalbard and Jan Mayen
+SK	Slovakia
+SL	Sierra Leone
+SM	San Marino
+SN	Senegal
+SO	Somalia
+SR	Suriname
+SS	South Sudan
+ST	Sao Tome and Principe
+SUH	Former U.S.S.R.
+SUH9	Former U.S.S.R. not allocated
+SV	El Salvador
+SX	Sint Maarten (Dutch part)
+SY	Syrian Arab Republic
+SZ	Swaziland
+TC	Turks and Caicos Islands
+TD	Chad
+TF	French Southern Territories
+TG	Togo
+TH	Thailand
+TJ	Tajikistan
+TK	Tokelau
+TL	Timor-Leste
+TM	Turkmenistan
+TN	Tunisia
+TO	Tonga
+TR	Turkey
+TT	Trinidad and Tobago
+TV	Tuvalu
+TW	Taiwan, Province of China
+TZ	Tanzania, United Republic of
+TZXZ	Tanzania, United Republic of (excluding Zanzibar)
+TZZN	Zanzibar
+U0	EU excluding the Euro area and reference area (changing composition)
+U2	Euro area (Member States and Institutions of the Euro Area) changing composition
+U20	Euro area (Member States of the Euro Area) excluding ECB and ESM
+U29	Euro area (changing composition) not allocated 
+U3	Intra EU Extra Euro Area (EU member states and institutions not belonging to the Euro area) changing composition
+U30	Intra EU Extra Euro Area  (changing composition) excluding EU institutions
+U39	Intra EU Extra Euro Area  (changing composition) not allocated
+U4	Extra Euro area  (changing composition)
+U49	Extra-Euro area (changing composition) not allocated 
+U5	Other Euro area member states (all countries except the reference area) (changing composition)
+U7	Euro area and the reference area
+U8	All areas other than Euro area and ref./home area
+U9	All areas other than EU and ref./home area
+UA	Ukraine
+UG	Uganda
+UM	United States Minor outlying islands
+US	United States
+US1	Alaska 
+US2	Hawaii
+UY	Uruguay
+UZ	Uzbekistan
+VA	Holy See (Vatican City State)
+VC	Saint Vincent and the Grenadines
+VE	Venezuela, Bolivarian Republic
+VG	Virgin Islands, British
+VI	Virgin Islands, U.S.
+VN	Viet Nam
+VU	Vanuatu
+W0	World (all areas, including reference area, including IO)
+W00	All Countries, excluding the IO
+W08	Domestic vis-à-vis world plus rest of the world vis-à-vis domestic 
+W09	World (all area, including reference area, including IO) not allocated
+W1	Rest of the World 
+W10	Rest of the world excluding International Organisations
+W12	Rest of the World excluding IO and not allocated
+W19	Rest of the World (non allocated geographically)
+W190	Rest of the World (non allocated geographically) plus IO
+W1X1	Rest of the World excluding IMF
+W1X2	Rest of World excluding 25 countries (AT, BE, BR, CA, HK, CN, FR, DE, IN, IE, IT, JP, KR, LU, MX, NL, RU, SG, ES, SE, CH, TR, GB, US) 
+W2	Domestic (home or reference area)
+W24	General governments and institutions of the EU
+W29	Non-resident in the economic territory
+WF	Wallis and Futuna
+WKU	Wake Islands
+WS	Samoa
+X0	IMF Member Countries (IMF)
+X1F	Export Earnings: Fuel (IMF)
+X1NF	Export Earnings: Nonfuel (IMF)
+X88	Other Countries n.i.e. (IMF)
+X999	Total reporting countries (IMF)
+XA6	Other Central America (IMF)
+XA69	Other Central America not allocated (IMF)
+XA7	Other South America (IMF)
+XA79	Other South America not allocated (IMF)
+XE2	Advanced Europe (IMF)
+XE3	Other European Countries (IMF)
+XE39	Other European Countries not allocated (IMF) 
+XG	Gaza and Jericho
+XK	Kosovo
+XR21	Oil-exporting Countries (IMF)
+XR23	Advanced Economies G-20 (IMF)
+XR24	Emerging Economies G-20 (IMF)
+XR25	Non G-20 Countries (IMF)
+XR29	Advanced Economies (IMF)
+XR30	Oil-Importing Countries (IMF)
+XR32	Other Advanced Economies (IMF)
+XR40	Heavily Indebted Poor Countries (IMF)
+XR41	Countries in Transition (IMF)
+XR42	MDRI Countries (IMF)
+XR43	Emerging and developing economies (IMF)
+XR44	Non-oil Developing Countries (IMF)
+XR55	Resource Intensive Countries (IMF)
+XR99	Special Categories and Economic Zones
+XRC1	Other CPIS Holding Countries Excluding Key Partners (Mandatory FSAP countries - changing composition)
+XS2	Emerging Asia (IMF)
+XS25	Developing Asia (IMF)
+XS3	Developing Asia Excl. China & India (IMF)
+XS4	Newly Industrialized Asian Economies (IMF)
+YE	Yemen
+YT	Mayotte
+YUC	Former Yugoslavia
+YUC9	Former Yugoslavia not allocated
+Z1	Euro area (moving concept in the Real Time database context)
+Z11	Euro area countries: LU, LT, LV, SI, CY, MT, EE, SK
+Z12	Equally-shared control of UCIs (ultimate controlling institutional units of a foreign affiliate) of more than one EU member state
+Z4	Euro area countries except Germany, France, Italy and Spain
+Z5	Residual for BOP & IIP step 3 ECB needs (J2-DK-GB-SE-4A-D8-CH-CA-US-JP-C4-7Z)
+Z8	Other EU member states (all countries except the reference area)
+ZA	South Africa
+ZM	Zambia
+ZW	Zimbabwe

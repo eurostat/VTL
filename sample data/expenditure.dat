@@ -1,0 +1,493 @@
+expenditure	label_en
+_T	Total
+_TXCP041_042	Total except actual rents
+_Z	Not applicable
+CP00	All-items HICP
+CP01	Food and non-alcoholic beverages
+CP011	Food
+CP0111	Bread and cereals
+CP01111	Rice
+CP01112	Flours and other cereals
+CP01113	Bread
+CP01114	Other bakery products
+CP01115	Pizza and quiche
+CP01116	Pasta products and couscous
+CP01117	Breakfast cereals
+CP01118	Other cereal products
+CP0112	Meat
+CP01121	Beef and veal
+CP01122	Pork
+CP01123	Lamb and goat
+CP01124	Poultry
+CP01125	Other meats
+CP01126	Edible offal
+CP01127	Dried, salted or smoked meat
+CP01128	Other meat preparations
+CP0113	Fish and seafood
+CP01131	Fresh or chilled fish
+CP01132	Frozen fish
+CP01133	Fresh or chilled seafood
+CP01134	Frozen seafood
+CP01135	Dried, smoked or salted fish and seafood
+CP01136	Other preserved or processed fish and seafood and fish and seafood preparations
+CP0114	Milk, cheese and eggs
+CP01141	Whole milk
+CP01142	Low fat milk
+CP01143	Preserved milk
+CP01144	Yoghurt
+CP01145	Cheese and curd
+CP01146	Other milk products
+CP01147	Eggs
+CP0115	Oils and fats
+CP01151	Butter
+CP01152	Margarine and other vegetable fats
+CP01153	Olive oil
+CP01154	Other edible oils
+CP01155	Other edible animal fats
+CP0116	Fruit
+CP01161	Fresh or chilled fruit
+CP01162	Frozen fruit
+CP01163	Dried fruit and nuts
+CP01164	Preserved fruit and fruit-based products
+CP0117	Vegetables
+CP01171	Fresh or chilled vegetables other than potatoes and other tubers
+CP01172	Frozen vegetables other than potatoes and other tubers
+CP01173	Dried vegetables, other preserved or processed vegetables
+CP01174	Potatoes
+CP01175	Crisps
+CP01176	Other tubers and products of tuber vegetables
+CP0118	Sugar, jam, honey, chocolate and confectionery
+CP01181	Sugar
+CP01182	Jams, marmalades and honey
+CP01183	Chocolate
+CP01184	Confectionery products
+CP01185	Edible ices and ice cream
+CP01186	Artificial sugar substitutes
+CP0119	Food products n.e.c.
+CP01191	Sauces, condiments
+CP01192	Salt, spices and culinary herbs
+CP01193	Baby food
+CP01194	Ready-made meals
+CP01199	Other food products n.e.c.
+CP012	Non-alcoholic beverages
+CP0121	Coffee, tea and cocoa
+CP01211	Coffee
+CP01212	Tea
+CP01213	Cocoa and powdered chocolate
+CP0122	Mineral waters, soft drinks, fruit and vegetable juices
+CP01221	Mineral or spring waters
+CP01222	Soft drinks
+CP01223	Fruit and vegetables juices
+CP02	Alcoholic beverages, tobacco and narcotics
+CP021	Alcoholic beverages
+CP0211	Spirits
+CP02111	Spirits and liqueurs
+CP02112	Alcoholic soft drinks
+CP0212	Wine
+CP02121	Wine from grapes
+CP02122	Wine from other fruits
+CP02123	Fortified wines
+CP02124	Wine-based drinks
+CP0213	Beer
+CP02131	Lager beer
+CP02132	Other alcoholic beer
+CP02133	Low and non-alcoholic beer
+CP02134	Beer-based drinks
+CP022	Tobacco
+CP0220	Tobacco
+CP02201	Cigarettes
+CP02202	Cigars
+CP02203	Other tobacco products
+CP023	Narcotics
+CP0230	Narcotics
+CP02300	Narcotics
+CP03	Clothing and footwear
+CP031	Clothing
+CP0311	Clothing materials
+CP03110	Clothing materials
+CP0312	Garments
+CP03121	Garments for men
+CP03122	Garments for women
+CP03123	Garments for infants (0 to 2 years) and children (3 to 13 years)
+CP0313	Other articles of clothing and clothing accessories
+CP03131	Other articles of clothing
+CP03132	Clothing accessories
+CP0314	Cleaning, repair and hire of clothing
+CP03141	Cleaning of clothing
+CP03142	Repair and hire of clothing
+CP032	Footwear
+CP0321	Shoes and other footwear
+CP03211	Footwear for men
+CP03212	Footwear for women
+CP03213	Footwear for infants and children
+CP0322	Repair and hire of footwear
+CP03220	Repair and hire of footwear
+CP04	Housing, water, electricity, gas and other fuels
+CP041	Actual rentals for housing
+CP0411	Actual rentals paid by tenants
+CP04110	Actual rentals paid by tenants
+CP0412	Other actual rentals
+CP04121	Actual rentals paid by tenants for secondary residences
+CP04122	Garage rentals and other rentals paid by tenants
+CP042	Imputed rentals for housing
+CP0421	Imputed rentals of owner-occupiers
+CP04210	Imputed rentals of owner-occupiers
+CP0422	Other imputed rentals
+CP04220	Other imputed rentals
+CP043	Maintenance and repair of the dwelling
+CP0431	Materials for the maintenance and repair of the dwelling
+CP04310	Materials for the maintenance and repair of the dwelling
+CP0432	Services for the maintenance and repair of the dwelling
+CP04321	Services of plumbers
+CP04322	Services of electricians
+CP04323	Maintenance services for heating systems
+CP04324	Services of painters
+CP04325	Services of carpenters
+CP04329	Other services for maintenance and repair of the dwelling
+CP044	Water supply and miscellaneous services relating to the dwelling
+CP0441	Water supply
+CP04410	Water supply
+CP0442	Refuse collection
+CP04420	Refuse collection
+CP0443	Sewerage collection
+CP04430	Sewerage collection
+CP0444	Other services relating to the dwelling n.e.c.
+CP04441	Maintenance charges in multi-occupied buildings
+CP04442	Security services
+CP04449	Other services related to dwelling
+CP045	Electricity, gas and other fuels
+CP0451	Electricity
+CP04510	Electricity
+CP0452	Gas
+CP04521	Natural gas and town gas
+CP04522	Liquefied hydrocarbons (butane, propane, etc.)
+CP0453	Liquid fuels
+CP04530	Liquid fuels
+CP0454	Solid fuels
+CP04541	Coal
+CP04549	Other solid fuels
+CP0455	Heat energy
+CP04550	Heat energy
+CP05	Furnishings, household equipment and routine household maintenance
+CP051	Furniture and furnishings, carpets and other floor coverings
+CP0511	Furniture and furnishings
+CP05111	Household furniture
+CP05112	Garden furniture
+CP05113	Lighting equipment
+CP05119	Other furniture and furnishings
+CP0512	Carpets and other floor coverings
+CP05121	Carpet and rugs
+CP05122	Other floor coverings
+CP05123	Services of laying of fitted carpets and floor coverings
+CP0513	Repair of furniture, furnishings and floor coverings
+CP05130	Repair of furniture, furnishings and floor coverings
+CP052	Household textiles
+CP0520	Household textiles
+CP05201	Furnishings fabrics and curtains
+CP05202	Bed linen
+CP05203	Table linen and bathroom linen
+CP05209	Other household textiles
+CP053	Household appliances
+CP0531	Major household appliances whether electric or not
+CP0531_0532	Major household appliances whether electric or not and small electric household appliances
+CP05311	Refrigerators, freezers and fridge-freezers
+CP05312	Clothes washing machines, clothes drying machines and dish washing machines
+CP05313	Cookers
+CP05314	Heaters, air conditioners
+CP05315	Cleaning equipment
+CP05316	Sewing and knitting machines
+CP05319	Other major household appliances
+CP0532	Small electric household appliances
+CP05321	Food processing appliances
+CP05322	Coffee machines, tea-makers and similar appliances
+CP05323	Irons
+CP05324	Toasters and grills
+CP05329	Other small electric household appliances
+CP0533	Repair of household appliances
+CP05330	Repair of household appliances
+CP054	Glassware, tableware and household utensils
+CP0540	Glassware, tableware and household utensils
+CP05401	Glassware, crystal-ware, ceramic ware and chinaware
+CP05402	Cutlery, flatware and silverware
+CP05403	Non-electric kitchen utensils and articles
+CP05404	Repair of glasseware, tableware and household ustensils
+CP055	Tools and equipment for house and garden
+CP0551	Major tools and equipment
+CP05511	Motorized major tools and equipment
+CP05512	Repair, leasing and rental of major tools and equipment
+CP0552	Small tools and miscellaneous accessories
+CP05521	Non-motorised small tools
+CP05522	Miscellaneous small tool accessories
+CP05523	Repair of non-motorised small tools and miscellaneous accessories
+CP056	Goods and services for routine household maintenance
+CP0561	Non-durable household goods
+CP05611	Cleaning and maintenance products
+CP05612	Other non-durable small household articles
+CP0562	Domestic services and household services
+CP05621	Domestic services by paid staff
+CP05622	Cleaning services
+CP05623	Hire of furniture and furnishings
+CP05629	Other domestic services and household services
+CP06	Health
+CP061	Medical products, appliances and equipment
+CP0611	Pharmaceutical products
+CP06110	Pharmaceutical products
+CP0612	Other medical products
+CP0612_0613	Other medical products, therapeutic appliances and equipment
+CP0613	Therapeutic appliances and equipment
+CP06131	Corrective eye-glasses and contact lenses
+CP06132	Hearing aids
+CP06133	Repair of therapeutic appliances and equipment
+CP06139	Other therapeutic appliances and equipment
+CP062	Out-patient services
+CP0621	Medical services
+CP0621_0623	Medical services; paramedical services
+CP06211	General practice
+CP06212	Specialist practice
+CP0622	Dental services
+CP06220	Dental services
+CP0623	Paramedical services
+CP06231	Services of medical analysis laboratories and X-ray centres
+CP06232	Thermal-baths, corrective-gymnastic therapy, ambulance and hire of therapeutic equipment
+CP06233	Other paramedical services
+CP063	Hospital services
+CP0630	Hospital services
+CP06300	Hospital services
+CP07	Transport
+CP071	Purchase of vehicles
+CP0711	Motor cars
+CP07111	New motor cars
+CP07112	Second-hand motor cars
+CP0712	Motor cycles
+CP0712_713	Motor cycles and bicycles
+CP07120	Motor cycles
+CP0712T0714	Motor cycles, bicycles and animal drawn vehicles
+CP0713	Bicycles
+CP07130	Bicycles
+CP0714	Animal drawn vehicles
+CP07140	Animal drawn vehicles
+CP072	Operation of personal transport equipment
+CP0721	Spares parts and accessories for personal transport equipment
+CP07211	Tyres
+CP07212	Spare parts for personal transport equipment
+CP07213	Accessories for personal transport equipment
+CP0722	Fuels and lubricants for personal transport equipment
+CP07221	Diesel
+CP07222	Petrol
+CP07223	Other fuels for personal transport equipment
+CP07224	Lubricants
+CP0723	Maintenance and repair of personal transport equipment
+CP07230	Maintenance and repair of personal transport equipment
+CP0724	Other services in respect of personal transport equipment
+CP07241	Hire of garages, parking spaces and personal transport equipment
+CP07242	Toll facilities and parking meters
+CP07243	Driving lessons, tests, licences and road worthiness tests
+CP073	Transport services
+CP0731	Passenger transport by railway
+CP07311	Passenger transport by train
+CP07312	Passenger transport by underground and tram
+CP0732	Passenger transport by road
+CP07321	Passenger transport by bus and coach
+CP07322	Passenger transport by taxi and hired car with driver
+CP0733	Passenger transport by air
+CP07331	Domestic flights
+CP07332	International flights
+CP0734	Passenger transport by sea and inland waterway
+CP07341	Passenger transport by sea
+CP07342	Passenger transport by inland waterway
+CP0735	Combined passenger transport
+CP07350	Combined passenger transport
+CP0736	Other purchased transport services
+CP07361	Funicular, cable-car and chair-lift transport
+CP07362	Removal and storage services
+CP07369	Other purchased transport services n.e.c.
+CP08	Communications
+CP081	Postal services
+CP0810	Postal services
+CP08101	Letter handling services
+CP08109	Other postal services
+CP082	Telephone and telefax equipment
+CP082_083	Telephone and telefax equipment and services
+CP0820	Telephone and telefax equipment
+CP08201	Fixed telephone equipment
+CP08202	Mobile telephone equipment
+CP08203	Other equipment of telephone and telefax equipment
+CP08204	Repair of telephone or telefax equipment
+CP083	Telephone and telefax services
+CP0830	Telephone and telefax services
+CP08301	Wired telephone services
+CP08302	Wireless telephone services
+CP08303	Internet access provision services
+CP08304	Bundled telecommunication services
+CP08305	Other information transmission services
+CP09	Recreation and culture
+CP091	Audio-visual, photographic and information processing equipment
+CP0911	Equipment for the reception, recording and reproduction of sound and picture
+CP09111	Equipment for the reception, recording and reproduction of sound
+CP09112	Equipment for the reception, recording and reproduction of sound and vision
+CP09113	Portable sound and vision devices
+CP09119	Other equipment for the reception, recording and reproduction of sound and picture
+CP0912	Photographic and cinematographic equipment and optical instruments
+CP09121	Cameras
+CP09122	Accessories for photographic and cinematographic equipment
+CP09123	Optical instruments
+CP0913	Information processing equipment
+CP09131	Personal computers
+CP09132	Accessories for information processing equipment
+CP09133	Software
+CP09134	Calculators and other information processing equipment
+CP0914	Recording media
+CP09141	Pre-recorded recording media
+CP09142	Unrecorded recording media
+CP09149	Other recording media
+CP0915	Repair of audio-visual, photographic and information processing equipment
+CP09150	Repair of audio-visual, photographic and information processing equipment
+CP092	Other major durables for recreation and culture
+CP0921	Major durables for outdoor recreation
+CP0921_0922	Major durables for indoor and outdoor recreation including musical instruments
+CP09211	Camper vans, caravans and trailers
+CP09212	Aeroplanes, microlight aircraft, gliders, hang-gliders and hot-air balloons
+CP09213	Boats, outboard motors and fitting out of boats
+CP09214	Horses, ponies and accessories
+CP09215	Major items for games and sport
+CP0922	Musical instruments and major durables for indoor recreation
+CP09221	Musical instruments
+CP09222	Major durables for indoor recreation
+CP0923	Maintenance and repair of other major durables for recreation and culture
+CP09230	Maintenance and repair of other major durables for recreation and culture
+CP093	Other recreational items and equipment, gardens and pets
+CP0931	Games, toys and hobbies
+CP09311	Games and hobbies
+CP09312	Toys and celebration articles
+CP0932	Equipment for sport, camping and open-air recreation
+CP09321	Equipment for sport
+CP09322	Equipment for camping and open-air recreation
+CP09323	Repair of equipment for sport, camping and open-air recreation
+CP0933	Gardens, plants and flowers
+CP09331	Garden products
+CP09332	Plants and flowers
+CP0934	Pets and related products
+CP0934_0935	Pets and related products; veterinary and other services for pets
+CP09341	Purchase of pets
+CP09342	Products for pets
+CP0935	Veterinary and other services for pets
+CP09350	Veterinary and other services for pets
+CP094	Recreational and cultural services
+CP0941	Recreational and sporting services
+CP09411	Recreational and sporting services - Attendance
+CP09412	Recreational and sporting services - Participation
+CP0942	Cultural services
+CP09421	Cinemas, theatres, concerts
+CP09422	Museums, libraries, zoological gardens
+CP09423	Television and radio licence fees, subscriptions
+CP09424	Hire of equipment and accessories for culture
+CP09425	Photographic services
+CP09429	Other cultural services
+CP0943	Games of chance
+CP09430	Games of chance
+CP095	Newspapers, books and stationery
+CP0951	Books
+CP09511	Fiction books
+CP09512	Educational text books
+CP09513	Other non-fiction books
+CP09514	Binding services and E-book downloads
+CP0952	Newspapers and periodicals
+CP09521	Newspapers
+CP09522	Magazines and periodicals
+CP0953	Miscellaneous printed matter
+CP0953_954	Miscellaneous printed matter; stationery and drawing materials
+CP09530	Miscellaneous printed matter
+CP0954	Stationery and drawing materials
+CP09541	Paper products
+CP09549	Other stationery and drawing materials
+CP096	Package holidays
+CP0960	Package holidays
+CP09601	Package domestic holidays
+CP09602	Package international holidays
+CP10	Education
+CP101	Pre-primary and primary education
+CP1010	Pre-primary and primary education
+CP10101	Pre-primary education 
+CP10102	Primary education
+CP102	Secondary education
+CP1020	Secondary education
+CP10200	Secondary education
+CP103	Post-secondary non-tertiary education
+CP1030	Post-secondary non-tertiary education
+CP10300	Post-secondary non-tertiary education
+CP104	Tertiary education
+CP1040	Tertiary education
+CP10400	Tertiary education
+CP105	Education not definable by level
+CP1050	Education not definable by level
+CP10500	Education not definable by level
+CP11	Restaurants and hotels
+CP111	Catering services
+CP1111	Restaurants, cafés and the like
+CP11111	Restaurants, cafés and dancing establishments
+CP11112	Fast food and take away food services
+CP1112	Canteens
+CP11120	Canteens
+CP112	Accommodation services
+CP1120	Accommodation services
+CP11201	Hotels, motels, inns and similar accommodation services
+CP11202	Holiday centres, camping sites, youth hostels and similar accommodation services
+CP11203	Accommodation services of other establishments
+CP12	Miscellaneous goods and services
+CP121	Personal care
+CP1211	Hairdressing salons and personal grooming establishments
+CP12111	Hairdressing for men and children
+CP12112	Hairdressing for women
+CP12113	Personal grooming treatments
+CP1212	Electrical appliances for personal care
+CP1212_1213	Electrical appliances for personal care; other appliances, articles and products for personal care
+CP12121	Electric appliances for personal care
+CP12122	Repair of electric appliances for personal care
+CP1213	Other appliances, articles and products for personal care
+CP12131	Non-electrical appliances
+CP12132	Articles for personal hygiene and wellness, esoteric products and beauty products
+CP122	Prostitution
+CP122_127	Prostitution; other services n.e.c.
+CP1220	Prostitution
+CP12200	Prostitution
+CP123	Personal effects n.e.c.
+CP1231	Jewellery, clocks and watches
+CP12311	Jewellery
+CP12312	Clocks and watches
+CP12313	Repair of jewellery, clocks and watches
+CP1232	Other personal effects
+CP12321	Travel goods
+CP12322	Articles for babies
+CP12323	Repair of other personal effects
+CP12329	Other personal effects n.e.c.
+CP124	Social protection
+CP1240	Social protection
+CP12401	Child care services
+CP12402	Retirement homes for elderly persons and residences for disabled persons
+CP12403	Services to maintain people in their private homes
+CP12404	Counselling
+CP125	Insurance
+CP1251	Life insurance
+CP12510	Life insurance
+CP1252	Insurance connected with the dwelling
+CP12520	Insurance connected with the dwelling
+CP1253	Insurance connected with health
+CP12531	Public insurance connected with health
+CP12532	Private insurance connected with health
+CP1254	Insurance connected with transport
+CP12541	Motor vehicle insurance
+CP12542	Travel insurance
+CP1255	Other insurance
+CP12550	Other insurance
+CP126	Financial services n.e.c.
+CP1261	FISIM
+CP12610	FISIM
+CP1262	Other financial services n.e.c.
+CP12621	Charges by banks and post offices
+CP12622	Fees and service charges of brokers, investment counsellors
+CP127	Other services n.e.c.
+CP1270	Other services n.e.c.
+CP12701	Administrative fees
+CP12702	Legal services and accountancy
+CP12703	Funeral services
+CP12704	Other fees and services

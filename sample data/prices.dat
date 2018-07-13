@@ -1,0 +1,15 @@
+prices	label_en
+_Z	Not applicable
+D	Deflator (index)
+DR	Deflator (rebased)
+L	Chain linked volume
+LR	Chain linked volume (rebased)
+O	Previous year’s replacement costs
+Q	Constant prices
+QR	Constant prices (rebased)
+R	Real terms
+RR	Real terms (rebased)
+U	Current replacement cost
+V	Current prices
+VQ	Current prices (constant converter)
+Y	Previous year prices

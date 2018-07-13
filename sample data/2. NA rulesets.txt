@@ -1,0 +1,112 @@
+////////////	Creation of rulesets
+
+/*
+3.1.3  and 3.1.4 combined together
+3.1.3 Zero values
+Observation values should be higher than zero except:
+- for STO=P51G (GFCF) and INSTR_ASSET is one the following: AN_F6 non-financial asset type  (N1G,N111G,N112G,N1131G,N1132G,N115G,N117G,N11G,N11MG, N11OG,N12G,N13G,N1MG) may be zero 
+- for STO=YA0, YA1 or YA2 (statistical discrepancy) may be zero
+- for STO=SELF and UNIT_MEASURE=HW and ACTIVITY starts with K and REF_AREA=DK (self-employed people and hours worked in financial and insurance services (industry K) in Denmark) it may be zero
+3.1.4 Negative values
+Observation values should be positive except:
+- for STO=P51G (GFCF) and INSTR_ASSET is one the following: AN_F6 non-financial asset type  (N1G,N111G,N112G,N1131G,N1132G,N115G,N117G,N11G,N11MG, N11OG,N12G,N13G,N1MG) may be zero or negative 
+- for STO=YA0, YA1 or YA2 (statistical discrepancy) may be zero or negative
+- for STO=SELF and UNIT_MEASURE=HW and ACTIVITY starts with K and REF_AREA=DK (self-employed people and hours worked in financial and insurance services (industry K) in Denmark) it may be zero but not negative
+*/
+
+define datapoint ruleset dpr_313_zero_negative_values ( variable sto, instr_asset, unit_measure, activity, ref_area, obs_value) is
+when not ( (sto = "P51G" and instr_asset in {"N1G", "N111G", "N112G", "N1131G", "N1132G", "N115G", "N117G", "N11G", "N11MG", "N11OG", "N12G", "N13G", "N1MG"} ) or sto in {"YA0", "YA1", "YA2"} or (sto = "SELF" and unit_measure= "HW" and substr(activity,0,1) = "K" and ref_area="DK") )
+	then obs_value > 0 errorcode "Observation value must be positive" errorlevel "Error" ;                                                                  
+when sto = "SELF" and unit_measure= "HW" and substr(activity,0,1) = "K" and ref_area="DK"
+	then obs_value >= 0 errorcode "Observation value must be non-negative" errorlevel "Error" ;  
+end datapoint ruleset ;
+
+/* 
+	Logical checks on obs_value and flags (alternative= not ( cond1 xor cond2)
+	1.3 and 1.4: logical checks
+*/
+define datapoint ruleset logical_checks ( variable obs_value,obs_status,conf_status,embargo_date,ref_year_price,prices ) is
+/* 1 */	 ( obs_status in { "H","J","L","M","Q","S" } ) = isnull( obs_value ) errorcode "obs_value and obs_status incompatibility" errorlevel "Warning" ;
+/* 2 */	 ( conf_status = "N" ) = not isnull( embargo_date ) errorcode "Data provided with Embargo date required to use the N conf_status" errorlevel "Warning" ;
+/* 3 */	 ( prices in { "L","Q","R","LR","QR","RR" } ) = not isnull( ref_year_price ) errorcode "Data provided with chained linked prices must have a Ref_Year_Price numeric information, otherwise it should be empty" errorlevel "Warning" ;
+end datapoint ruleset ; 
+
+////////////	Additive check on sector
+
+define hierarchical ruleset hr_sector ( variable rule ref_sector ) is	
+S11DO=S11001+S11002	;
+S1ZO=S11+S13+S121+S123+S124+S125+S128+S129	;
+S1=S11+S12+S13+S14+S15+S1N	;
+S1100P=S11002+S11003	;
+S12=S12K+S12M	;
+S1200P=S12002+S12003	;
+S1220P=S12202+S12203	;
+S124=S124A+S124B	;
+S124=S12401+S12402+S12403	;
+S124B=S124B1+S124B2+S124B3+S124B4+S124B5+S124B9	;
+S125A >= S125	;
+S128=S1281+S1282	;
+S12C=S121+S122	;
+S12D=S12-S121	;
+S12K=S121+S122+S123	;
+S12L=S123+S124	;
+S12L=S12L1+S12L2+S12L3+S12L4+S12L5+S12L9	;
+S12L=S12LO+S124B	;
+S12L1=S12LO1+S124B1	;
+S12L2=S12LO2+S124B2	;
+S12L3=S12LO3+S124B3	;
+S12L4=S12LO4+S124B4	;
+S12L5=S12LO5+S124B5	;
+S12L9=S12LO9+S124B9	;
+S12LO=S123+S124A	;
+S12LO=S12LO1+S12LO2+S12LO3+S12LO4+S12LO5+S12LO9	;
+S12M=S124+S125+S126+S127+S128+S129	;
+S12N=S124+S125+S127	;
+S12O=S125+S126+S127	;
+S12P=S124+S125+S126+S127	;
+S12Q=S128+S129	;
+S12R=S123+S124+S125+S126+S127+S128+S129	;
+S12R=S12301+S12401+S12501+S12601+S12701+S12801+S12901	;
+S12R=S12302+S12303+S12402+S12403+S12502+S12503+S12602+S12603+S12702+S12703+S12802+S12803+S12902+S12903	;
+S12T=S122+S123	;
+S13=S1311+S1312+S1313+S1314	;
+S13=S1321+S1322+S1323	;
+S13L=S1311+S1312	;
+S13M=S1312+S1313	;
+S13O=S13-S1311	;
+S13P=S13-S1312	;
+S13R=S13-S1313	;
+S13T=S13-S1314	;
+S1B=S1-S1A	;
+S1K=S11+S12	;
+S1K1=S11001+S12001	;
+S1KP=S1100P+S1200P	;
+S1L=S13+S14+S15	;
+S1M=S14+S15	;
+S1O=S1V+S12M+S13O	;
+S1O=S11+S14+S15+S124+S125+S126+S127+S128+S129+S1312+S1313+S1314	;
+S1P=S1V+S12M	;
+S1P=S11+S14+S15+S124+S125+S126+S127+S128+S129	;
+S1Q=S1S+S12M	;
+S1Q=S11+S13+S14+S15+S124+S125+S126+S127+S128+S129	;
+S1R=S11+S13+S15	;
+S1S=S11+S13+S14+S15	;
+S1T=S11+S13	;
+S1U=S1V+S13O	;
+S1U=S11+S14+S15+S1312+S1313+S1314	;
+S1V=S11+S14+S15	;
+S1W=S11+S12+S14+S15+S1N	;
+S1X=S121+ S134	;
+S1Y=S1-S1X-S1N	;
+S1Z=S11+S14+S15+S123+S124+S125+S126+S127+S128+S129	;
+S1ZK=S1-S121-S1N	;
+S1ZL=S1-S121-S13-S1N	;
+S1ZM=S1-S1311-S1N	;
+S1ZN=S1-S1312-S1N	;
+S1ZP=S1-S1313-S1N	;
+S1ZQ=S1-S1314-S1N	;
+S1ZR=S1-S12-S13-S1N	;
+S1ZS=S11001+S12001+S13	;
+S1ZT=S11002+S12002+S15002	;
+SZV=SZU+S13
+end hierarchical ruleset 	

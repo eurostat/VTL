@@ -1,0 +1,201 @@
+ref_sector	label_en
+S11DO	Domestically controlled non-financial corporations
+S110021	National private non financial corporations, which are part of domestic multinationals
+S12DO	Domestically controlled financial corporations
+S120021	National private financial corporations which are part of domestic multinationals
+S110011	Public non financial corporations, which are part of domestic multinationals
+S120011	Public financial corporations, which are part of domestic multinationals
+S1ZO	Other sectors including non-financial corporations, money market funds, non-MMF investment funds, OFIs, insurance corporations, pension funds, general government or a central bank
+_Z	Not applicable
+S1	Total economy
+S11	Non financial corporations
+S11001	Public non financial corporations
+S11001C	Public non financial corporations controlled by general government
+S11002	National private non financial corporations
+S11003	Foreign controlled non financial corporations
+S1100P	Private nonfinancial corporations
+S11B	Head offices of non financial corporations
+S11U	Non-financial corporations (sub-sector not identified) 
+S12	Financial corporations
+S12001	Public financial corporations
+S12001C	Public financial corporations controlled by central government
+S12002	National private financial corporations
+S12003	Foreign controlled financial corporations
+S1200P	Private financial corporations
+S121	Central bank
+S122	Deposit taking corporations, except the Central Bank
+S12201	Public deposit taking corporations, except the Central Bank
+S12202	National private deposit taking corporations, except the Central Bank
+S12203	Foreign controlled deposit taking corporations, except the Central Bank
+S1220P	Private deposit-taking corporations
+S122A	Banks headquartered in the reporting country or currency area
+S122B	Banks headquartered outside the reporting country or currency area
+S122U	Deposit taking corporations, except the Central Bank (sub-sector not identified) 
+S122Z	Deposit-taking corporations except the central bank and excluding electronic money institutions principally engaged in financial intermediation
+S123	Money market funds
+S12301	Public money market funds
+S12302	National private money market funds
+S12303	Foreign controlled money market funds
+S123U	Money market funds (sub-sector not identified) 
+S124	Non MMF investment funds
+S12401	Public non MMF investment funds
+S12402	National private non MMF investment funds
+S12403	Foreign controlled non MMF investment funds
+S124A	Open-end Non MMFs
+S124B	Closed-end Non MMFs
+S124B1	Closed-end Real Estate Funds
+S124B2	Closed-end Equity funds
+S124B3	Closed-end Bond funds
+S124B4	Closed-end Mixed funds
+S124B5	Closed-end Hedge funds
+S124B9	Other closed-end Non MMFs
+S124U	Non MMF investment funds (sub-sector not identified) 
+S125	Other financial intermediaries, except insurance corporations and pension funds
+S12501	Public other financial intermediaries, except insurance corporations and pension funds
+S12502	National private other financial intermediaries, except insurance corporations and pension funds
+S12503	Foreign controlled other financial intermediaries, except insurance corporations and pension funds
+S125A	Financial vehicle corporations engaged in securitisation
+S125U	Other financial intermediaries, except insurance corporations and pension funds (sub-sector not identified) 
+S125W	Other financial corporations excluding financial vehicle corporations
+S126	Financial auxiliaries
+S12601	Public financial auxiliaries
+S12602	National private financial auxiliaries
+S12603	Foreign controlled financial auxiliaries
+S126B	Head offices of financial corporations
+S126U	Financial auxiliaries (sub-sector not identified) 
+S127	Captive financial institutions and money lenders
+S12701	Public captive financial institutions and money lenders
+S12702	National private captive financial institutions and money lenders
+S12703	Foreign controlled captive financial institutions and money lenders
+S127A	Holding companies
+S127U	Captive financial institutions and money lenders (sub-sector not identified) 
+S128	Insurance corporations
+S12801	Public insurance corporations
+S12802	National private insurance corporations
+S12803	Foreign controlled insurance corporations
+S1281	Life Insurance Corporations
+S1282	Non-life Insurance Corporations
+S128A	Reinsurance corporations
+S128B	Life insurance corporations excluding reinsurance corporations
+S128C	Non-life insurance corporations excluding reinsurance corporations
+S128D	Composite life and non-life insurance corporations excluding reinsurance corporations
+S128U	Insurance corporations (sub-sector not identified) 
+S129	Pension funds
+S12901	Public pension funds
+S12902	National private pension funds
+S12903	Foreign controlled pension funds
+S129U	Pension funds (sub-sector not identified) 
+S12A	Banks and other financial institutions headquartered in the reporting country or currency area
+S12B	Banks and other financial institutions headquartered outside the reporting country or currency area
+S12C	Deposit taking corporations
+S12D	Financial corporations other than central banks
+S12K	Monetary financial institutions (MFI)
+S12KU	Monetary financial institutions (sub-sector not identified) 
+S12L	Investment Funds (MMFs and non-MMFs)
+S12L1	Real estate funds
+S12L2	Equity funds
+S12L3	Bond funds
+S12L4	Mixed funds
+S12L5	Hedge funds
+S12L9	Other funds (other than equity, bond, mixed, real estate and hedge funds)
+S12LO	Open-end Investment Funds
+S12LO1	Open-end Real Estate Funds
+S12LO2	Open-end Equity funds
+S12LO3	Open-end Bond funds
+S12LO4	Open-end Mixed funds
+S12LO5	Open-end Hedge funds
+S12LO9	Other open-end funds
+S12M	Financial corporations other than MFIs 
+S12N	Other financial institutions (Financial corporations other than MFIs, insurance corporations, pension funds and financial auxiliaries)
+S12O	Other financial institutions (Financial corporations other than MFIs, insurance corporations, pension funds and non MMFs Investment Funds)
+S12P	Other financial institutions (Financial corporations other than MFIs, insurance corporations and pension funds)
+S12PU	Other Financial Institutions  (sub-sector not identified) 
+S12Q	Insurance corporations and Pension Funds
+S12QU	Other insurance corporations and pension funds (sub-sector not identified) 
+S12R	Other financial corporations 
+S12R01	Other public financial corporations
+S12R0P	Other private financial corporations
+S12S	Other Forms of Institutional Savings
+S12T	Monetary financial institutions other than central bank 
+S12U	Financial corporations other than the central bank
+S12V	Financial corporations other than central banks and credit institutions
+S13	General government
+S131	General government excluding social security
+S1311	Central government excluding social security
+S13111	Central government, budgetary units
+S13112	Central government, extra-budgetary units
+S1311B	Budgetary Central Government
+S1312	State government excluding social security
+S13121	State government, budgetary units
+S13122	State government, extra-budgetary units
+S1313	Local government excluding social security
+S13131	Local government, budgetary units
+S13132	Local government, extra-budgetary units
+S1314	Social security funds
+S13141	Social security funds, budgetary units
+S13142	Social security funds, extra-budgetary units
+S1315	European institutions and bodies (EU accounts)
+S1321	Central government including social security
+S1322	State government including social security
+S1323	Local government including social security
+S133	General government non profit institutions
+S1331	Central government non profit institutions
+S1332	State government non profit institutions
+S1333	Local government non profit institutions
+S134	General government involved in monetary policy operations
+S13L	Central and state government excluding social security
+S13M	State and local government excluding social security
+S13O	General government, except central government
+S13P	General government, except state government
+S13R	General government, except local government
+S13T	General government, except social security funds
+S13U	Other General Government (sub-sector not identified)
+S14	Households
+S141	Employers
+S142	Own account workers
+S143	Employees
+S144	Recipients of property and transfer income
+S1441	Recipients of property income
+S1442	Recipients of pensions
+S1443	Recipients of other transfers
+S15	Non profit institutions serving households
+S15002	National private
+S15003	Foreign controlled
+S1A	Affiliates
+S1B	Not affiliates
+S1F	Financial intermediaries (CDIS)
+S1G	All resident sectors excluding financial intermediaries (CDIS)
+S1H	Issuer headquartered in the reporting country or currency area
+S1K	Corporations 
+S1K1	Public corporations
+S1KK	Central banks and general government
+S1KP	Private corporations
+S1L	General government, households and non profit institutions serving households 
+S1M	Households and non profit institutions serving households (NPISH)
+S1MU	Other households  and non-profit institutions serving households  (sub-sector not identified)  
+S1N	Not sectorised
+S1O	Other sectors than MFIs and central government 
+S1P	Other sectors than MFIs and general government  
+S1Q	Other sectors than MFIs 
+S1R	Non financial sectors, except households
+S1S	Non-financial corporations, general government and households and NPISH
+S1T	Non-financial corporations and general government
+S1U	Non financial sectors, except central government
+S1V	Non financial corporations, households and NPISH  
+S1W	Other sectors than general government
+S1X	Monetary authorities 
+S1XA	Monetary authorities and international organizations
+S1Y	Other sectors than monetary authorities 
+S1Z	Sectors other than deposit-taking corporations and general government (Other Sectors - BPM6)
+S1ZK	Other sectors than central bank
+S1ZL	Other sectors than central bank and general government
+S1ZM	Other sectors than central government
+S1ZN	Other sectors than state government
+S1ZP	Other sectors than local government
+S1ZQ	Other sectors than social security funds
+S1ZR	Other sectors than financial corporations and general government  
+S1ZS	Public sector 
+S1ZT	National private financial and non financial corporations
+S1ZU	Sectors other than central bank, credit institutions and general government
+SZU	Institutions of the European Union (ESA GFS concept)
+SZV	General government and institutions of the European Union (ESA GFS concept)

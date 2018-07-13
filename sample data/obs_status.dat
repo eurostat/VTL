@@ -1,0 +1,19 @@
+obs_status	label_en
+A	Normal
+B	Time series break
+D	Definition differs
+E	Estimated value
+F	Forecast value
+G	Experimental value
+H	Missing value; holiday or weekend
+I	Imputed value (CCSA definition)
+J	Derogation
+L	Missing value; data exist but were not collected
+M	Missing value; data cannot exist
+N	Not significant
+O	Missing value
+P	Provisional value
+Q	Missing value; suppressed
+S	Strike and other special events
+U	Low reliability
+V	Unvalidated value

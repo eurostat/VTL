@@ -1,0 +1,37 @@
+InputFile:= "NAMAIN_T0101_A_DK_2016_0000_V0004";
+
+CurTable:= substr(InputFile, instr(InputFile, "_", 1, 1)+1, instr(InputFile, "_", 1, 2) - instr(InputFile, "_", 1, 1)-1);
+CurFreq:= substr(InputFile, instr(InputFile, "_", 1, 2)+1, instr(InputFile, "_", 1, 3) - instr(InputFile, "_", 1, 2)-1);
+CurCountry:= substr(InputFile, instr(InputFile, "_", 1, 3)+1, instr(InputFile, "_", 1, 4) - instr(InputFile, "_", 1, 3)-1);
+
+// 1.1 and 1.2: wrong envelope: check that the dataset contains the table, freq and country indicated in the file name
+WrongEnvelop:=check ( na_main#table_identifier=CurTable and na_main#freq=CurFreq and na_main#ref_area=CurCountry 
+	errorcode "Bad table_identifier, frequency or ref_area: " || CurTable || " " || CurFreq || " " || CurCountry
+	errorlevel "Error" invalid ) [ drop bool_var ] [calc identifier ruleid := "FIL" ] [calc obs_value := null ] [calc imbalance := null ] ;
+
+// 1.3 and 1.4: logical checks
+LogicalChecks := check_datapoint ( na_main, logical_checks ) [ calc imbalance := null ]  ;
+
+// 3.1.1: unexpected series have been found
+ExtraSeries := check ( exists_in ( na_main, derog_na_main ) errorcode "Extra series for table - country" errorlevel "Error" invalid ) [ drop bool_var ] [ calc identifier ruleid := "EXT" ] [ calc obs_value := null ] [ calc imbalance := null ] ;
+
+
+// 3.1.2: Incomplete series
+TempCompleted := fill_time_series ( na_main ) ;
+Incomplete := check ( exists_in (TempCompleted, na_main ) errorcode "Gap in the time series - annual data" errorlevel "Error" invalid ) [ drop bool_var ] [calc identifier ruleid := "INC" ] [calc obs_value := null ] [calc imbalance := null ] ;
+
+// 3.1.3: Zero values and 3.1.4 Negative values combined together
+ZeroNegativeValues := check_datapoint ( na_main, dpr_313_zero_negative_values ) [ keep errorcode, errorlevel, obs_value ] [calc imbalance := null ] ;
+
+// 4.1.1: Additivity breakdown for sector
+AddSector := check_hierarchy ( na_main , hr_sector) [ calc errorlevel := "Error" ] ;
+
+// 4.1.2: Outliers (NB: the filter obs_value <> 0 is needed to avoid "division by zero" run-time error)
+ds_prec_value := na_main [calc prec_value := lag ( obs_value , 1 over ( order by time ) ) ] ;
+ds_imbalance := ds_prec_value [ filter prec_value <> 0 ] [ calc diff_perc := abs ( obs_value - prec_value )  / prec_value ] [calc imbalance := abs ( obs_value - prec_value ) ] ;
+ds_invalid := check ( ds_imbalance#diff_perc < 0.03 errorcode "Deviation larger than 3%" errorlevel "Warning" invalid ) ;
+Outliers :=  inner_join ( ds_invalid, ds_imbalance ) [ keep obs_value, imbalance, errorcode, errorlevel ] [calc identifier ruleid := "OUT" ] ; 
+
+// build the output dataset (for the validation report) by assembling together all temporary datasets
+// if rule_if is ot unique then raise an error
+union ( WrongEnvelop, LogicalChecks, ExtraSeries, Incomplete, ZeroNegativeValues, AddSector, Outliers ) 

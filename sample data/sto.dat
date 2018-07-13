@@ -1,0 +1,569 @@
+sto	label_en
+D4_7	Property income and other current transfers
+_X	Unspecified
+_Z	Not applicable
+ACT	Economically active population
+B	Balancing and net worth items 
+B10	Changes in net worth 
+B101	Changes in net worth due to saving and capital transfers 
+B101A	Net transactions in assets and liabilities
+B102	Changes in net worth due to other changes in volume of assets 
+B103	Changes in net worth due to nominal holding gains and losses
+B1031	Changes in net worth due to neutral holding gains and losses 
+B1032	Changes in net worth due to real holding gains and losses 
+B10K	Changes in net worth due to other changes
+B10R	Remaining changes in net worth
+B10T	Changes in net worth due to other economic flows
+B11	External balance of goods and services 
+B111	External balance of goods
+B112	External balance of services
+B12	Current external balance 
+B1G	Value added, gross 
+B1GQ	Gross domestic product at market prices
+B1GXP119	Value added excluding FISIM
+B1N	Value added, net 
+B1NQ	Net domestic product at market prices
+B2A3G	Operating surplus and mixed income, gross
+B2A3N	Operating surplus and mixed income, net
+B2AD4	Operating surplus, mixed and net property income
+B2G	Operating surplus, gross 
+B2N	Operating surplus, net 
+B3G	Mixed income, gross 
+B3N	Mixed income, net 
+B4G	Entrepreneurial income (gross)
+B4N	Entrepreneurial income (net)
+B5G	Balance of primary incomes, gross / National income, gross 
+B5GQ	Gross national income in market prices [deprecated]
+B5GQ95	Gross national income (SNA93/ESA95)
+B5GQ95XF	Gross national income (SNA93/ESA95) excluding FISIM allocation
+B5N	Balance of primary incomes, net / National income, net 
+B5NQ	Net national income in market prices [deprecated]
+B6G	Disposable income, gross 
+B6GA	Disposable income, gross, adjusted for the change in net equity of households in pension funds reserves
+B6N	Disposable income, net 
+B7G	Adjusted disposable income, gross 
+B7N	Adjusted disposable income, net 
+B8G	Saving, gross 
+B8N	Saving, net 
+B9	Net lending(+) / net borrowing (-)
+B90	Net worth 
+B9F	Net financial transactions
+B9FX9	Discrepancy between the financial (B9F) and non-financial (B9) net lending/borrowing
+B9P	Net lending/net borrowing excluding interest payable (primary deficit or surplus)
+B9XFAM	Net lending (+) / net borrowing (-) excluding government assistance to the financial corporations
+BF90	Financial net worth
+COM_HW	Hourly compensation
+COM_PS	Compensation per employee
+D	Distributive transactions 
+D1	Compensation of employees 
+D1_D29X39	Compensation of employees and other taxes excluding other subsidies on products
+D11	Wages and salaries
+D12	Employers' social contributions 
+D121	Employers' actual social contributions (primary income)
+D1211	Employers' actual pension contributions (primary income)
+D1212	Employers' actual non-pension contributions (primary income)
+D122	Employers' imputed social contributions (primary income)
+D1221	Employers' imputed pension contributions (primary income)
+D1222	Employers' imputed non-pension contributions (primary income)
+D2	Taxes on production and imports 
+D21	Taxes on products 
+D211	Value added type taxes 
+D211E	Value Added Tax paid to the EU
+D212	Taxes and duties on imports excluding Value Added Tax 
+D2121	Import duties 
+D2122	Taxes on imports excluding Value Added Tax and duties 
+D2122A	Levies on imported agricultural products
+D2122B	Monetary compensatory amounts on imports
+D2122C	Excise duties
+D2122D	General sales taxes
+D2122E	Taxes on specific services
+D2122F	Profits of import monopolies
+D212K	Customs and other import duties
+D213	Export taxes 
+D213A	Levies on exported goods and services, other than export duties and monetary comp. amounts on exports
+D213B	Profits of export monopolies
+D213C	Taxes resulting from multiple exchange rate regimes
+D213D	Export taxes, exchange taxes
+D214	Taxes on products except Value Added Tax, import and export taxes 
+D214A	Excise duties and consumption taxes
+D214B	Stamp taxes
+D214C	Taxes on financial and capital transactions
+D214D	Car registration taxes
+D214E	Taxes on entertainment
+D214F	Taxes on lotteries, gambling and betting
+D214G	Taxes on insurance premiums
+D214H	Other taxes on specific services
+D214I	General sales or turnover taxes
+D214I1	General sales taxes
+D214I2	Turnover and other general taxes on goods and services
+D214J	Profits of fiscal monopolies
+D214K	Export duties and monetary comp. amounts on exports
+D214L	Other taxes on products n. e. c.
+D21K	Total sales taxes
+D21L	Total excises
+D21M	General taxes on goods and services
+D21N	Taxes on specific services
+D21O	Total taxes on exports                                                                        
+D21P	Profits of export or import monopolies
+D21Q	Total exchange taxes
+D21X31	Taxes less subsidies on products
+D29	Other taxes on production 
+D29A	Taxes on land, buildings or other structures
+D29B	Taxes on the use of fixed assets
+D29B1	Taxes on the use of motor vehicles
+D29B2	Taxes on the use of other machinery or equipment
+D29C	Total wage bill and payroll taxes
+D29D	Taxes on international transactions
+D29E	Business and professional licences
+D29F	Taxes on pollution
+D29G	Under-compensation of Value Added Tax (flat rate system)
+D29H	Other taxes on production n. e. c.
+D29H1	Other taxes on production n. e. c.; recurrent taxes on net wealth
+D29H2	Other taxes on production n. e. c.; other recurrent taxes on property
+D29H3	Other taxes on production n. e. c.; other taxes on goods and services
+D29H4	Other taxes on production n. e. c.; other taxes on production
+D29X39	Other taxes on production minus other subsidies on production
+D2M	Indirect taxes on energy
+D2N	Indirect taxes excluding VAT and indirect taxes on energy
+D2NOA	Taxes on production and imports, other than for own-account capital formation
+D2R	Other taxes on goods and services
+D2S	Taxes on goods and services
+D2T	Other taxes on international trade and transactions
+D2U	Taxes on international trade and transactions
+D2X3	Taxes on production and imports less subsidies
+D3	Subsidies 
+D31	Subsidies on products 
+D311	Import subsidies 
+D312	Export subsidies 
+D319	Other subsidies on products 
+D31P	Subsidies on products, payable (positive sign, for reporting in GFS presentation)
+D39	Other subsidies on production 
+D39P	Other subsidies on production, payable (positive sign, for reporting in GFS presentation)
+D39R	Other subsidies on production, receivable (positive sign, for reporting in GFS presentation)
+D3P	Subsidies, payable (positive sign, for reporting in GFS presentation)
+D4	Property income 
+D41	Interest 
+D41G	Interest before FISIM allocation
+D42	Distributed income of corporations 
+D421	Dividends 
+D422	Withdrawals from income of quasi-corporations 
+D43	Reinvested earnings on FDI (Excluding IF)
+D43S	Reinvested earnings on FDI (Including IF)
+D44	Other investment income
+D441	Investment income attributable to insurance policyholders 
+D442	Investment income payable on pension entitlements 
+D443	Investment income attributable to collective investment fund share holders 
+D4431	Dividends distributed to collective investment fund shareholders (IF)
+D4432	Reinvested earnings attributable to collective investment fund shareholders (IF)
+D44K	Property income from investment income disbursements
+D45	Rent 
+D4K	Property income attributed to insurance policy holders and rent
+D4M	Interest and rents
+D4N	Property income other than interest
+D4P	Investment income (D4 less D45) (BOP)
+D4R	Investment income
+D5	Current taxes on income, wealth, etc. 
+D51	Taxes on income 
+D51A	Taxes on individual or household income excluding holding gains
+D51B	Taxes on the income or profits of corporations excluding holding gains
+D51C	Taxes on holding gains
+D51C1	Taxes on individual or household holding gains
+D51C2	Taxes on holding gains of corporations
+D51C3	Other taxes on holding gains n.e.c
+D51D	Taxes on winnings from lottery or gambling
+D51D1	Taxes on individuals' winnings from lottery or gambling
+D51D2	Taxes on corporations' winnings from lottery or gambling
+D51D3	Other taxes on winnings from lottery or gambling n.e.c.
+D51E	Other taxes on income n.e.c.
+D51G1	Taxes on income, payable by individuals
+D51G2	Taxes on income, payable by corporations and other enterprises
+D51G3	Other taxes on income, profits, and capital gains
+D51M	Taxes on individual or household income including holding gains
+D51O	Taxes on the income or profits of corporations including holding gains
+D59	Other current taxes 
+D59A	Current taxes on capital
+D59A1	Current taxes on land, buildings and other structures
+D59A2	Recurrent taxes on net wealth
+D59A3	Other recurrent taxes on property
+D59A4	Current taxes on ownership of motor vehicles
+D59B	Poll taxes
+D59C	Expenditure taxes
+D59D	Payments by households for licences
+D59D1	Payments by households for licenses to use motor vehicle taxes
+D59D2	Payments by households for radio and television licenses
+D59D3	Payments by households for other licenses and permits
+D59E	Other current taxes on international transactions
+D59E1	Other current taxes on international transactions; exchange taxes
+D59E2	Other current taxes on international transactions; other
+D59F	Other current taxes n.e.c.
+D6	Social contributions and social benefits
+D61	Net social contributions 
+D611	Employers' actual social contributions
+D6111	Employers' actual pension contributions 
+D6111A	Social security actual pension contributions by employers
+D6111B	Employment related schemes actual pension contributions by employers
+D6112	Employers' actual non-pension contributions
+D6112A	Social security actual nonpension contributions by employers
+D6112B	Employment related schemes actual nonpension contributions by employers
+D611C	Compulsory employers' actual social contributions 
+D611V	Voluntary employers' actual social contributions 
+D612	Employers' imputed social contributions 
+D6121	Employers' imputed pension contributions 
+D6122	Employers' imputed non-pension contributions
+D613	Households' actual social contributions 
+D6131	Households' actual pension contributions 
+D6131A1	Social security actual pension contributions by employees
+D6131A2	Social security actual pension contributions by self-employed or nonemployed
+D6131B	Employment related schemes actual pension contributions by employees
+D6132	Households' actual non-pension contributions 
+D6132A1	Social security actual nonpension contributions by employees
+D6132A2	Social security actual nonpension contributions by self-employed or nonemployed
+D6132B	Employment related schemes actual nonpension contributions by employees
+D613C	Compulsory households' actual social contributions 
+D613CE	Compulsory employees' actual social contributions 
+D613CN	Compulsory actual social contributions by the non-employed
+D613CS	Compulsory actual social contributions by the self-employed
+D613V	Voluntary households' actual social contributions 
+D614	Households' social contribution supplements 
+D6141	Households' pension contribution supplements 
+D6142	Households' non-pension contribution supplements 
+D619	Other (actuarial) change of pension entitlements in social security pension schemes
+D61N	Actual social contributions from employers and households
+D61SC	Social insurance scheme service charges (-)
+D62	Social benefits other than social transfers in kind 
+D62_63	Social benefits and social transfers in kind 
+D621	Social security benefits in cash 
+D6211	Social security pension benefits 
+D6212	Social security non-pension benefits in cash 
+D622	Other social insurance benefits 
+D6221	Other social insurance pension benefits 
+D6222	Other social insurance non-pension benefits 
+D623	Social assistance benefits in cash 
+D62O	Other social allowances (payments of family, education, medical services and other allowances)
+D62P	Retirement and survivors' Pensions
+D63	Social transfers in kind 
+D631	Social transfers in kind - non-market production 
+D632	Social transfers in kind - purchased market production 
+D6321	Social transfers in kind - purchased market production, social security
+D6322	Social transfers in kind - purchased market production, employment-related schemes
+D6323	Social transfers in kind - purchased market production, social assistance
+D6K	Social transfers, other than social transfers in kind minus net social contributions
+D6L	Social contribution and social benefits, other than social transfer in kind
+D6M	Social benefits other than social transfers in kind and social transfers in kind - purchased market production
+D7	Other current transfers 
+D71	Net non-life insurance premiums 
+D711	Net non-life direct insurance premiums 
+D712	Net non-life reinsurance premiums 
+D71A	Net premiums of nonlife insurance schemes other than standardized guarantee
+D71B	Fees for standardized guarantee schemes
+D72	Non-life insurance claims 
+D721	Non-life direct insurance claims 
+D722	Non-life reinsurance claims 
+D73	Current transfers within general government 
+D73_74	Current grants to/from governments and international organizations
+D74	Current international cooperation 
+D75	Miscellaneous current transfers 
+D751	Current transfers to NPISHs 
+D752	Current transfers between resident and non-resident households 
+D759	Other miscellaneous current transfers 
+D759A	Fines, penalties, and forfeits
+D759B	Other miscellaneous current transfers , other than fines, penalties, and forfeits
+D76	Value Added Tax and GNI - based EU own resources
+D761	VAT-based third EU own resource
+D762	GNI-based fourth EU own resource
+D762K	Current transfers of which UK rebate  
+D763	Miscellaneous non-tax contribution of the government to the institutions of the EU
+D7K	Miscellaneous current transfers and VAT- and GNI-based own resources [deprecated]
+D7L	Current transfers within general government, current international cooperation and miscellaneous current transfers
+D7N	Current international cooperation, miscellaneous current transfers and VAT and GNI-based EU own resources
+D7O	Secondary income: All miscellaneous current transfers
+D8	Adjustment for the change in pension entitlements 
+D81	Transfer of pension entitlements between schemes
+D82	Change in entitlements due to negotiated changes in scheme structure
+D9	Capital transfers
+D91	Capital taxes 
+D91A	Taxes on capital transfers
+D91B	Capital levies
+D91C	Other capital taxes n.e.c.
+D92	Investment grants 
+D99	Other capital transfers 
+D995	Capital transfers from general government to relevant sectors representing taxes and social contributions assessed but unlikely to be collected
+D995A	Taxes on products assessed but unlikely to be collected
+D995B	Other taxes on production assessed but unlikely to be collected
+D995C	Taxes on income assessed but unlikely to be collected
+D995D	Other current taxes assessed but unlikely to be collected
+D995E	Employers actual social contributions assessed but unlikely to be collected
+D995F	Households' actual social contributions assessed but unlikely to be collected
+D995FE	Employees' actual social contributions assessed but unlikely to be collected
+D995FN	Actual social contributions by non-employed persons assessed but unlikely to be collected
+D995FS	Actual social contributions by self-employed persons assessed but unlikely to be collected
+D995G	Capital taxes assessed but unlikely to be collected
+D99A	Nonlife insurance capital claims
+D99B	Other capital transfers not elsewhere classified
+D99CG	Calls on guarantees
+D99CI	Capital injections recorded as capital transfers
+D9IMA	Capital transfers recorded in the context of asset purchases
+D9N	Other capital transfers and investment grants
+D9O	Other capital transfers and investment grants, excluding nonlife insurance capital claims
+D9P	Capital transfers, excluding nonlife insurance capital claims
+DG	Grants to/from governments and international organizations
+DG1	Grants in cash
+DG2	Grants in kind
+DK	Taxes on property
+DK1	Recurrent taxes on immovable property
+DK2	Recurrent taxes on net wealth
+DK3	Other recurrent taxes on property
+DL	Taxes on use of goods and on permission to use goods and perform activities
+DL1	Motor vehicles taxes [IMF GFSM definition]
+DL2	Other taxes on use of goods and on permission to use goods or perform activities
+EMP	Total employment
+F	Transactions in financial assets and liabilities
+GB8ZG	Gross operating balance
+GB8ZN	Net operating balance
+GB9	Net lending(+) / net borrowing (-) [IMF GFSM definition]
+GB9P	Primary net lending(+) / net borrowing (-) [IMF GFSM definition]
+GCL	Implicit transfers resulting from concessional interest rates
+GCNFB	Net cash inflow from financial activities
+GD1	Compensation of employees, excluding for own-account capital formation [IMF GFSM definition]
+GD11	Wages and salaries, excluding for own-account capital formation [IMF GFSM definition]
+GD11A	Wages and salaries in cash, excluding for own-account capital formation [IMF GFSM definition]
+GD11B	Wages and salaries in kind, excluding for own-account capital formation [IMF GFSM definition]
+GD12	Employers' social contributions, excluding for own-account capital formation [IMF GFSM definition]
+GD121	Employers' actual social contributions, excluding for own-account capital formation [IMF GFSM definition]
+GD122	Employers' imputed social contributions, excluding for own-account capital formation [IMF GFSM definition]
+GD3NOA	Subsidies, other than for own-account capital formation
+GD4	Property income before FISIM allocation, excluding investment income payable on pension entitlements [IMF GFSM definition]
+GD4N	Property income other than interest, excluding investment income payable on pension entitlements [IMF GFSM definition]
+GD61	Social contributions, excluding employment related schemes' pension contribution [IMF GFSM definition]
+GD61A	Social security contributions
+GD61A1	Social security contributions, employee contributions
+GD61A2	Social security contributions, employer contributions
+GD61A3	Social security contributions, self-employed or nonemployed contributions
+GD61A4	Social security contributions, unallocable contributions
+GD61B	Other social contributions
+GD61B1	Other social contributions, employee contributions
+GD62	Social benefits in cash, excluding other social insurance pension benefits [IMF GFSM definition]
+GD6M	Social benefits, excluding other social insurance pension benefits and social transfers in kind - non-market production [IMF GFSM definition]
+GD6M1	Social security benefits
+GD6M2	Employer social benefits, excluding pension benefits [IMF GFSM definition]
+GD6M3	Social assistance benefits
+GD71A	Premiums of nonlife insurance schemes other than standardized guarantees
+GD75	Miscellaneous current transfers , other than fines, penalties, and forfeits
+GD7P	Premiums, fees, and current claims
+GD7Q	Premiums, fees, and claims related to nonlife insurance and standardized guarantee schemes
+GD7R	Current transfers not elsewhere classified
+GD7Z	Transfers not elsewhere classified
+GDM	Other taxes [IMF GFSM definition]
+GDM1	Other taxes, payable solely by business
+GDM2	Other taxes, payable by other than business or unidentifiable
+GDXB9	Deficit-debt adjustment
+GDXN	Time of recording and other differences in DDA analysis (ECB concept)
+GOOE	Other expense [IMF GFSM definition]
+GOOR	Other revenue [IMF GFSM definition]
+GOTE	Total government expenditure [IMF GFSM definition]
+GOTEE	Total expense
+GOTEEG	Expense, excluding consumption of fixed capital
+GOTR	Total government revenue [IMF GFSM definition]
+GP1	Sales of goods and services
+GP11	Sales by market establishments
+GP2	Use of goods and services
+GP51C	Consumption of fixed capital (use of fixed assets) [IMF GFSM definition]
+IN	Primary and secondary income
+IN1	Primary income
+IN2	Secondary income
+IN21	Secondary income: current transfers
+IN22	Secondary income: Other current transfers excluding personal transfers
+K	Changes in positions other than transactions
+K1	Economic appearance of assets
+K2	Economic disappearances of non-produced assets
+K21	Depletion of natural resources
+K22	Other economic disappearances of non-produced assets
+K3	Catastrophic losses
+K4	Uncompensated seizures
+K5	Other changes in volume not elsewhere classified
+K6	Changes in classification
+K61	Changes in sector classification and structure
+K62	Changes in classification of assets and liabilities
+K7	Revaluations / Nominal holding gains and losses
+K71	Neutral holding gains and losses
+K72	Real holding gains and losses
+K7A	Revaluations due to exchange rate changes
+K7B	Revaluations due to other price changes
+K7B1	Other valuation effects of which due to issuance and redemption value
+KA	Other changes excluding revaluations
+KX	Other volume changes in debt liabilities (K.3, K.4, K.5) (-)
+LE	Closing balance sheet/Positions/Stocks
+LPR_HW	Labour Productivity (per hours worked)
+LPR_PS	Labour Productivity (per persons)
+LS	Opening balance sheet/Positions/Stocks
+LX	Changes in balance sheet/Positions/Stocks
+NP	Acquisitions less disposals of non-produced assets 
+O21X31	Adjustment product taxes less subsidies
+OB9	Net lending/borrowing under EDP
+OCE	Total current expenditure
+OCEXD41	Primary current expenditure 
+OCR	Total current revenue
+OCT	Social benefits other than social transfers in kind + social transfers in kind, purchased market production + subsidies payable + current taxes on income, wealth, etc. + other taxes on production + property income other than interest + other current transfers
+OD41	Interest, including flows on swaps and FRA's
+ODA	Total tax receipts
+ODB	Total receipts from taxes and social contributions after deduction of amounts assessed but unlikely to be collected
+ODC	Total receipts from taxes and social contributions (including imputed social contributions) after deduction of amounts assessed but unlikely to be collected
+ODD	Tax burden = total receipts from taxes and compulsory social contributions after deduction of amounts assessed but unlikely to be collected
+ODH	Memo: Difference between deliveries and corresponding cash payment (EDP concept)
+OEA	Intermediate consumption, other taxes on production, current taxes on income and wealth, etc., and adjustment for the change in net equity of households in pension funds reserves
+OEB	Other taxes on production, current taxes on income and wealth, etc. and adjustment for the change in net equity of households in pension funds reserves
+OEC	Intermediate consumption + Other taxes on production + Current taxes on income, wealth, etc. + Adjustment for the change in pension entitlements 
+OED	Other taxes on production + Current taxes on income, wealth, etc. + Adjustment for the change in pension entitlements 
+OESA95	Total impact of differences in definitions between ESA2010 and ESA95 on GNI
+OESA9501A	Impact of differences in definitions between ESA2010 and ESA95 on GNI: R&D created by a market producer
+OESA9501B	Impact of differences in definitions between ESA2010 and ESA95 on GNI: R&D created by a non-market producer
+OESA9502	Impact of differences in definitions between ESA2010 and ESA95 on GNI: Valuation of output for own final use for market producers
+OESA9503	Impact of differences in definitions between ESA2010 and ESA95 on GNI: Non-life insurance - Output, claims due to catastrophes, and reinsurance
+OESA9504	Impact of differences in definitions between ESA2010 and ESA95 on GNI: Weapon systems in government recognised as capital assets
+OESA9505	Impact of differences in definitions between ESA2010 and ESA95 on GNI: Decommissioning costs for large capital assets
+OESA9506	Impact of differences in definitions between ESA2010 and ESA95 on GNI: Government, public and private sector classification
+OESA9507	Impact of differences in definitions between ESA2010 and ESA95 on GNI: Small tools
+OESA9508	Impact of differences in definitions between ESA2010 and ESA95 on GNI: VAT-based third EU own resource
+OESA9509	Impact of differences in definitions between ESA2010 and ESA95 on GNI: Index-linked debt instruments
+OESA9510	Impact of differences in definitions between ESA2010 and ESA95 on GNI: Central Bank - allocation of output
+OESA9511	Impact of differences in definitions between ESA2010 and ESA95 on GNI: Land improvements recognised as a separate asset
+OGF	Guarantee fees receivable
+OIN	Gross disposable income minus final consumption expenditure
+OKE	Total capital expenditure
+OM2	Member State's net revenue from pre-acceding programmes 
+OOCR	Other current revenue
+OOCT	Current taxes on income, wealth, etc.  + other taxes on production  + property income other than interest + other current transfers  excluding current transfers to NPISH
+OOE	Total government expenditure excluding: interest, calls on guarantees, capital injections recorded as capital transfers
+OOEE	Total government expenditure excluding: interest, calls on guarantees, capital injections recorded as capital transfers, capital transfers recorded in the context of asset purchases
+OOR	Other revenue
+OP	Purchases
+OPI	Gross disposable income - gross operating surplus and mixed income - compensation of employees - social contribution and social benefits, other than social transfer in kind - current taxes on income, wealth, etc.
+ORADJ	Adjustments for scope and valuation of Maastricht debt
+ORD41A	Difference between interest paid (+) and accrued (EDP D.41)(-)
+ORD41FA	Difference between interest (EDP D.41) accrued(-) and paid (+) of which: interest flows attributable to swaps and FRAs
+ORFCD	Appreciation(+)/depreciation(-) of foreign-currency debt 
+ORINV	Issuances above(-)/below(+) nominal value
+ORNF	Non-financial transactions not included in the working balance
+OROA	Other adjustments (+/-) in EDP Table 2
+ORRNV	Redemptions of debt above(+)/below(-) nominal  value
+ORWB	Working balance
+ORWB_E	Working balance (+/-) of entities not part of the subsector
+OSA	Savings, gross plus net capital transfers
+OSP	Social benefits other than social transfers in kind and social transfers in kind - purchased market production + current transfers to NPISHs 
+OTE	Total government expenditure
+OTEK	Total expenditure other than Compensation of employees, Social benefits and social transfers in kind for products supplied to HH via market producers, Intermediate consumption and Gross fixed capital formation
+OTEXD41	Primary expenditure
+OTGL	Trading gain or loss
+OTR	Total government revenue
+OTRE	Net revenue / cost for general government (only including transactions as defined for EDP financial crisis tables and to be used with custom breakdown FC)
+OTSR	Total receipts from taxes and social contributions
+OTTM	Trade and transport margins
+OTTM1	Trade margins
+OTTM2	Transport margins
+P	Transactions in products
+P1	Output 
+P11	Market output 
+P118	Implicit service fees in nonlife insurance premiums and standardized guarantees
+P119	Financial Intermediation Services Indirectly Measured (FISIM)
+P12	Output for own final use 
+P12A	Own-account capital formation
+P12B	Production of goods and services used as compensation of employees in kind
+P13	Non-market output 
+P131	Payments for other non-market output
+P131A	Administrative fees
+P131B	Incidental sales by nonmarket establishments
+P132	Other non-market output, n.e.c.
+P1M	Market output and output for own final use
+P1O	Market output, output for own final use and payments for other non-market output
+P2	Intermediate consumption 
+P28	Service charges payable to providers of nonlife insurance
+P29	Intermediate consumption resulting from FISIM allocation
+P3	Final consumption expenditure 
+P31	Individual consumption expenditure 
+P311	Individual consumption expenditure of durable goods
+P312	Individual consumption expenditure of semi-durable goods
+P313	Individual consumption expenditure of non-durable goods
+P314	Individual consumption expenditure of services
+P31K	Individual consumption expenditure of semi-durable and non-durable goods and services
+P32	Collective consumption expenditure 
+P3T5	Domestic demand
+P3T6	Total demand
+P4	Actual final consumption 
+P41	Actual individual consumption 
+P42	Actual collective consumption 
+P5	Gross capital formation
+P511	Acquisitions less disposals of fixed assets 
+P5111	Acquisitions of new fixed assets 
+P5112	Acquisitions of existing fixed assets 
+P5113	Disposals of existing fixed assets 
+P512	Costs of ownership transfer on non-produced assets 
+P51C	Consumption of fixed capital
+P51C1	Consumption of fixed capital on gross operating surplus
+P51C2	Consumption of fixed capital on gross mixed income
+P51G	Gross fixed capital formation 
+P51N	Net fixed capital formation 
+P52	Changes in inventories 
+P53	Acquisitions less disposals of valuables 
+P5K	Changes in inventories (P52), acquisition less disposals of valuables (P53) and acquisition less disposals of non-financial non-produced assets (NP)
+P5L	Gross capital formation and acquisitions less disposals of non-produced assets
+P5LN	Net capital formation and acquisitions less disposals of non-produced assets
+P5M	Changes in inventories and acquisition less disposals of valuables
+P5N	Net capital formation
+P5OA	Own-account capital formation
+P5OA1	Own-account capital formation, compensation of employees
+P5OA11	Own-account capital formation, wages and salaries in cash
+P5OA12	Own-account capital formation, wages and salaries in kind
+P5OA13	Own-account capital formation, actual employers' social contributions
+P5OA14	Own-account capital formation, imputed employers' social contributions
+P5OA2	Own-account capital formation, intermediate consumption
+P5OA3	Own-account capital formation, consumption of fixed capital
+P5OA4	Own-account capital formation, other taxes on production minus other subsidies on production
+P5OA41	Own-account capital formation, other taxes on production
+P5OA42	Own-account capital formation, other subsidies on production
+P6	Exports of goods and services 
+P61	Exports of goods 
+P61A	Re-export of goods
+P61B	Export on second hand goods
+P61C	Merchanting
+P62	Exports of services 
+P62F	Exports of FISIM
+P6A	Re-exports
+P7	Imports of goods and services 
+P71	Imports of goods 
+P72	Imports of services 
+P72F	Imports of FISIM
+POP	Total population
+PTC	Total payable tax credits
+PTOT	Term of trade
+SAL	Employees
+SELF	Self employed
+T	Transactions
+TC	of which payable tax credits that exceed the taxpayer's liability
+TFU	Total final use
+TR1	Total resources production account
+TR211	Total resources generation of income account
+TR212	Total resources allocation of primary income account
+TR22	Total resources secondary distribution of income account
+TR241	Total resources use of disposable income account
+TR311	Total change in liabilities and net worth, change in net worth due to:  saving and capital transfers account
+TR312	Total change in liabilities and net worth, acquisitions of non-financ:i al assets accounts
+TS	Total supply
+TU	Total use
+TU1	Total uses production account
+TU211	Total uses generation of income account
+TU212	Total uses allocation of primary income account
+TU22	Total uses secondary distribution of income account
+TU241	Total uses use of disposable income account
+TU311	Total change in assets, change in net worth due to saving and capital:  transfers account
+TU312	Total change in assets, acquisitions of non-financial assets accounts
+ULC_HW	Unit Labour Cost (based on hours worked)
+ULC_PS	Unit Labour Cost (based on persons)
+UNE	Unemployed persons
+UPR	Unit profits
+YA0	Statistical discrepancy (expenditure approach)
+YA1	Statistical discrepancy (production approach)
+YA2	Statistical discrepancy (income approach)
+YA3	Statistical discrepancies in Stock Flow Adjustment
+YA3O	Other statistical discrepancies (+/-) in Stock Flow Adjustment
+YSD1	Transaction imbalance
+YSD2	Budget imbalance

@@ -1,0 +1,11 @@
+conf_status	label_en
+F	Free (free for publication)
+N	Not for publication, restricted for internal use only
+C	Confidential statistical information
+D	Secondary confidentiality set by the sender, not for publication 
+S	Secondary confidentiality set and managed by the receiver, not for publication 
+A	Primary confidentiality due to small counts
+O	Primary confidentiality due to dominance by one unit
+T	Primary confidentiality due to dominance by two units
+G	Primary confidentiality due to dominance by one or two units
+M	Primary confidentiality due to data declared confidential based on other measures of concentration

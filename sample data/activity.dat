@@ -1,0 +1,190 @@
+activity	label_en
+_T	Total - All activities
+_X	Unspecified
+_Z	Not applicable
+A	Agriculture, forestry and fishing
+A_B	Total Primary sector
+A01	Crop and animal production, hunting and related service activities
+A02	Forestry and logging
+A03	Fishing and aquaculture
+ATS	All activities except activities of households as employers; undifferentiated goods- and services-producing activities of households for own use and activities of extraterritorial organisations and bodies
+ATUXFPRV	Activities other than financial and insurance
+B	Mining and quarrying
+B05	Mining of coal and lignite
+B06	Extraction of crude petroleum and natural gas
+B06_09	Extraction of crude petroleum and natural gas; mining support service activities
+B07	Mining of metal ores
+B08	Other mining and quarrying
+B09	Mining support service activities
+BTE	Industry (except construction)
+BTF	Industry and construction
+BTN	Business economy
+BTS	Industry, construction and services (except activities of households as employers and extra-territorial organisations and bodies)
+BTSXO	Industry, construction and services (except activities of households as employers ; extra-territorial organisations and bodies ; public administration and defence; compulsory social security)
+C	Manufacturing
+C_OTH	Other manufacturing (C15, C23, C27, C31, C32, C33)
+C10	Manufacture of food products
+C10T12	Manufacture of food products; beverages and tobacco products
+C11	Manufacture of beverages
+C12	Manufacture of tobacco products
+C13	Manufacture of textiles
+C13_14	Manufacture of textiles and wearing apparel
+C13T15	Manufacture of textiles, wearing apparel, leather and related products
+C13T18X15	Manufacture of textiles, wearing apparel, wood and paper products; printing and reproduction
+C14	Manufacture of wearing apparel
+C15	Manufacture of leather and related products
+C16	Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials
+C16T18	Manufacture of wood, paper, and their products; printing and reproduction of recorded media
+C17	Manufacture of paper and paper products
+C18	Printing and reproduction of recorded media
+C19	Manufacture of coke and refined petroleum products
+C19T22	Manufacture of petroleum, chemical, pharmaceutical, rubber and plastic products
+C20	Manufacture of chemicals and chemical products
+C21	Manufacture of basic pharmaceutical products and pharmaceutical preparations
+C22	Manufacture of rubber and plastic products
+C22_23	Manufacture of rubber and plastic products and other non-metallic mineral products
+C23	Manufacture of other non-metallic mineral products
+C24	Manufacture of basic metals
+C24_25	Manufacture of basic metals and fabricated metal products, except machinery and equipment
+C24T28X27	Manufacture of metal and machinery products, except electrical equipment
+C25	Manufacture of fabricated metal products, except machinery and equipment
+C26	Manufacture of computer, electronic and optical products
+C262	Manufacture of computers and peripheral equipment
+C263_264	Manufacture of communication equipment and consumer electronics
+C265_266	Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks; manufacture of irradiation, electromedical and electrotherapeutic equipment
+C27	Manufacture of electrical equipment
+C28	Manufacture of machinery and equipment n.e.c.
+C29	Manufacture of motor vehicles, trailers and semi-trailers
+C29_30	Manufacture of motor vehicles, trailers, semi-trailers and of other transport equipment
+C30	Manufacture of other transport equipment
+C303	Manufacture of air and spacecraft and related machinery
+C31	Manufacture of furniture
+C31_32	Manufacture of furniture; other manufacturing
+C31T33	Manufacture of furniture; jewellery, musical instruments, toys, etc.; repair and installation of machinery and equipment
+C32	Other manufacturing
+C33	Repair and installation of machinery and equipment
+D	Electricity, gas, steam and air conditioning supply
+D35	Electricity, gas, steam and air conditioning supply
+E	Water supply; sewerage, waste management and remediation activities
+E36	Water collection, treatment and supply
+E37	Sewerage
+E37T39	Sewerage, waste management, remediation activities
+E38	Waste collection, treatment and disposal activities; materials recovery
+E39	Remediation activities and other waste management services
+F	Construction
+F41	Construction of buildings
+F42	Civil engineering
+F43	Specialised construction activities
+FDI_T	All FDI activities
+G	Wholesale and retail trade; repair of motor vehicles and motorcycles
+G_I	Wholesale and retail trade; repair of motor vehicles and motorcycles; Accommodation and food service activities
+G45	Wholesale and retail trade and repair of motor vehicles and motorcycles
+G46	Wholesale trade, except of motor vehicles and motorcycles
+G47	Retail trade, except of motor vehicles and motorcycles
+GTI	Wholesale and retail trade, transport, accommodation and food service activities
+GTJ	Wholesale and retail trade; transport; accommodation and food service activities; information and communication
+GTN	Market services - sections G to N
+GTN_RTU	Market services - Services excluding public administration, education, health and social services - sections G to N and R to U
+GTS	Services (except activities of households as employers and extra-territorial organisations and bodies)
+GTU	Services
+GTUXH	Services (except transportation and storage)
+H	Transportation and storage
+H_J	Transportation and storage; Information and communication
+H49	Land transport and transport via pipelines
+H50	Water transport
+H51	Air transport
+H52	Warehousing and support activities for transportation
+H53	Postal and courier activities
+HX53	Transport and storage except postal and courier activities
+I	Accommodation and food service activities
+I55	Accommodation
+I56	Food and beverage service activities
+ITU	Services (except wholesale and retail trade, transportation and storage)
+J	Information and communication
+J_M_N_RTU	Information, communication, professional, business and other services
+J58	Publishing activities
+J58_62_63	Publishing, computer programming and consultancy, information service activities
+J58T60	Publishing, motion picture, video, television programme production; sound recording, programming and broadcasting activities
+J59	Motion picture, video and television programme production, sound recording and music publishing activities
+J59_60	Motion picture, video, television programme production; programming and broadcasting activities
+J60	Programming and broadcasting activities
+J61	Telecommunications
+J62	Computer programming, consultancy and related activities
+J62_63	Computer programming, consultancy, and information service activities
+J63	Information service activities
+K	Financial and insurance activities
+K_L	Financial and real estate services
+K64	Financial service activities, except insurance and pension funding
+K641	Monetary intermediation
+K642	Activities of holding companies
+K643	Trusts, funds, and similar financial activities
+K65	Insurance, reinsurance and pension funding, except compulsory social security
+K66	Activities auxiliary to financial services and insurance activities
+KTN	Financial and insurance activities; real estate activities; professional, scientific and technical activities; administrative and support service activities
+L	Real estate activities
+L68A	Imputed rents of owner-occupied dwellings
+L68B	Real estate activities excluding imputed rents
+M	Professional, scientific and technical activities
+M_N	Professional, scientific and technical activities; administrative and support service activities
+M69	Legal and accounting activities
+M69_70	Legal and accounting activities; activities of head offices; management consultancy activities
+M691	Legal activities
+M692	Accounting, bookkeeping and auditing activities; tax consultancy
+M69T71	Legal and accounting activities; activities of head offices; management consultancy activities; architectural and engineering activities; technical testing and analysis
+M70	Activities of head offices; management consultancy activities
+M701	Activities of head offices
+M702	Management consultancy activities
+M71	Architectural and engineering activities; technical testing and analysis
+M72	Scientific research and development
+M73	Advertising and market research
+M731	Advertising
+M732	Market research and public opinion polling
+M73T75	Advertising and market research; other professional, scientific and technical activities; veterinary activities
+M74	Other professional, scientific and technical activities
+M74_75	Other professional, scientific and technical activities; veterinary activities
+M75	Veterinary activities
+N	Administrative and support service activities
+N77	Rental and leasing activities
+N78	Employment activities
+N78T82	Employment, travel agency, security and investigation, service and landscape, office administrative and support activities
+N79	Travel agency, tour operator reservation service and related activities
+N80	Security and investigation activities
+N80T82	Security and investigation, service and landscape, office administrative and support activities
+N81	Services to buildings and landscape activities
+N82	Office administrative, office support and other business support activities
+NAL	Not allocated [deprecated]
+O	Public administration and defence; compulsory social security
+O_T_U	Public administration; activities of households and of extraterritorial organisations
+O84	Public administration and defence; compulsory social security
+OTQ	Public administration, defence, education, human health and social work activities
+OTS	Public administration and defence; compulsory social security; education; human health and social work activities; arts, entertainment and recreation; other service activities
+OTU	Public administration and defence; compulsory social security; education; human health and social work activities; arts, entertainment and recreation, repair of household goods and other services
+P	Education
+P85	Education
+PRV_RE	Private real estate activities
+PTS	Education; human health and social work activities; arts, entertainment and recreation; other service activities
+Q	Human health and social work activities
+Q86	Human health activities
+Q87	Residential care activities
+Q87_88	Residential care activities and social work activities without accommodation
+Q88	Social work activities without accommodation
+R	Arts, entertainment and recreation
+R_S	Arts, entertainment and recreation; other service activities
+R90	Creative, arts and entertainment activities
+R90T92	Creative, arts and entertainment activities; libraries, archives, museums and other cultural activities; gambling and betting activities
+R91	Libraries, archives, museums and other cultural activities
+R92	Gambling and betting activities
+R92_93	Gambling and betting activities; sporting and other recreational activities
+R93	Sports activities and amusement and recreation activities
+RTT	Arts, entertainment and recreation; Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use; other service activities
+RTU	Arts, entertainment and recreation; other service activities; activities of household and extra-territorial organizations and bodies
+S	Other service activities
+S94	Activities of membership organisations
+S95	Repair of computers and personal and household goods
+S95_96	Repair of computers, personal and household goods; other personal service activities
+S96	Other personal service activities
+T	Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+T97	Activities of households as employers of domestic personnel
+T98	Undifferentiated goods- and services-producing activities of private households for own use
+U	Activities of extraterritorial organisations and bodies
+U99	Activities of extraterritorial organisations and bodies

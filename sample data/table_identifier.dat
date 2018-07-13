@@ -1,0 +1,112 @@
+table_identifier	label_en
+ECB_GFS_1A	ECB GFS Guideline, Table 1A: Government revenue and expenditure
+ECB_GFS_1B	ECB GFS Guideline, Table 1B: EU budget transactions
+ECB_GFS_1C	ECB GFS Guideline, Table 1C: Government final consumption expenditure and other non-financial transactions
+ECB_GFS_2A	ECB GFS Guideline, Table 2A: Government deficit and its financing
+ECB_GFS_2B	ECB GFS Guideline, Table 2B: Transactions in Maastricht debt - consolidation
+ECB_GFS_3A	ECB GFS Guideline, Table 3A: Government gross debt 
+ECB_GFS_3B	ECB GFS Guideline, Table 3B: Government gross debt - consolidating elements
+EDP_FC	Supplementary tables for the financial crisis
+EDP1	EDP Table 1 - Reporting of government deficit/surplus and debt levels
+EDP2	EDP Table 2 - Transition between the public accounts budget balance and the central government deficit/surplus
+EDP3	EDP Table 3 - Contributions of the deficit/surplus and the other relevant factors to the variation in the debt level and the consolidation of debt
+EDP4	EDP Table 4 - Other data in accordance with the statements contained in the Council minutes of 22/11/1993
+EDPQ	Questionnaire related to the EDP notification tables
+GFS_ALL	ECB GFS Guideline, all GFS tables
+IMF_GFS_BS	IMF IFS GFS, Balance sheet
+IMF_GFS_S2	IMF GFS Yearbook, Statement II: Statement of sources and uses of cash
+IMF_GFS_SO	IMF IFS GFS, Statement of operations
+IMF_GFS_T1	IMF GFS Yearbook, Table 1 - Revenue
+IMF_GFS_T2	IMF GFS Yearbook, Table 2 - Expense
+IMF_GFS_T3	IMF GFS Yearbook, Table 3 - Transactions in assets and liabilities
+IMF_GFS_T4	IMF GFS Yearbook, Table 4 - Revaluations in assets and liabilities
+IMF_GFS_T5	IMF GFS Yearbook, Table 5 - Other volume changes in assets and liabilities
+IMF_GFS_T6	IMF GFS Yearbook, Table 6 - Stock Positions in assets and liabilities
+IMF_GFS_T6A	IMF GFS Yearbook, Table 6A - Debt Liabilities at Nominal/Market Value
+IMF_GFS_T6B	IMF GFS Yearbook, Table 6B - Debt Liabilities at Face Value
+IMF_GFS_T7	IMF GFS Yearbook, Table 7 - Expenditure by Functions of Government (COFOG)
+IMF_GFS_T8A	IMF GFS Yearbook, Table 8A - Transactions in financial assets and liabilities by counterpart sector
+IMF_GFS_T8B	IMF GFS Yearbook, Table 8B - Stock positions in financial assets and liabilities by counterpart sector
+IMF_GFS_T9	IMF GFS Yearbook, Table 9 - Other economic flows in assets and liabilities
+MUFA_ALL	ECB MUFA Guideline, all MUFA tables
+MUFA1	ECB MUFA Guideline, Table 1: Non-consolidated financial assets
+MUFA2	ECB MUFA Guideline, Table 2: Non-consolidated financial liabilities
+MUFA3	ECB MUFA Guideline, Table 3: Deposits
+MUFA4	ECB MUFA Guideline, Table 4: Short-term loans
+MUFA5	ECB MUFA Guideline, Table 5: Long-term loans
+MUFA6	ECB MUFA Guideline, Table 6: Shot-term debt securities
+MUFA7	ECB MUFA Guideline, Table 7: Long-term debt securities
+MUFA8	ECB MUFA Guideline, Table 8: Listed shares
+MUFA9	ECB MUFA Guideline, Table 9: Investment fund shares
+PSD	Table PSD - Public sector debt
+R15_FIN_SF	G-20 recommendation 15 framework - financial stocks and flows
+R15_NONFIN_S	G-20 recommendation 15 framework - stocks of non-financial assets
+R15_NONFIN_T	G-20 recommendation 15 framework - non-financial transactions
+T0101	Table 0101 - Gross value added at basic prices and gross domestic product at market prices
+T0102	Table 0102 - GDP identity from the expenditure side
+T0103	Table 0103 - GDP identity from the income side
+T0107	Table 0107 - Disposable income, saving, net lending / borrowing
+T0110	Table 0110 - Population and employment
+T0111	Table 0111 - Employment by industry
+T0117	Table 0117 - Final consumption expenditure of households by durability
+T0119	Table 0119 - Simplified non-financial accounts by institutional sector
+T0120	Table 0120 - Exports of goods (fob) and services by Member States of the EU / third countries.
+T0121	Table 0121 - Imports of goods (fob) and services by Member States of the EU/third countries
+T0199	Table 01xx - Source from various table 01 sub-tables
+T0200	Table 0200 - Main aggregates of general government
+T0301	Table 0301- Output and income
+T0302	Table 0302 - Capital formation
+T0303	Table 0303 - Employment
+T0501	Table 0501 - Final consumption expenditure of households by purpose
+T0502	Table 0502 - Final consumption expenditure of households
+T0610	Table 0610 - Financial accounts by sector (transactions), consolidated
+T0611	Table 0611 - Other change in volume accounts, consolidated
+T0612	Table 0612 - Revaluation of financial instruments accounts, consolidated
+T0620	Table 0620 - Financial accounts by sector (transactions), non-consolidated
+T0621	Table 0621 - Other change in volume accounts, non-consolidated
+T0622	Table 0622 - Revaluation of financial instruments accounts, non-consolidated
+T0625	Table 0625 - Financial accounts by sector (transactions), counterpart information, non-consolidated
+T0710	Table 0710 - Balance sheets for financial assets and liabilities (stocks), consolidated
+T0720	Table 0720 - Balance sheets for financial assets and liabilities (stocks), non-consolidated
+T0725	Table 0725 - Balance sheets for financial assets and liabilities (stocks), counterpart information, non-consolidated
+T0800	Table 0800 - Non-financial accounts by sector - annual
+T0801	Table 0801 - Non-financial accounts by sector - quarterly
+T0801SA	Table 0801SA - QSA Quarterly sector accounts: seasonally adjusted and volume data
+T0900	Table 0900 - Detailed tax and social contribution receipts by type of tax or social contribution and receiving sub-sector including the list of taxes and social contributions according to national classification
+T0999	Table 0999 - Questionnaire NTL - Detailed list of taxes and social contributions according to national classification
+T1001	Table 1001 - Tables by region (NUTS II)
+T1002	Table 1002 - Tables by industry and by region (NUTS II)
+T1100	Table 1100 - General Government expenditure by function
+T1200	Table 1200 - Tables by industry, A6 and by region (NUTS III)
+T1300	Table 1300 - Households accounts by region (NUTS II)
+T1500	Table 1500 - Supply table at basic prices, including a transformation into purchasers' prices
+T1600	Table 1600 - Use Table at purchasers' prices
+T1601	Table 1601 - Use table for domestic input at purchasers' prices
+T1602	Table 1602 - Use table for imports at purchasers' prices
+T1610	Table 1610 - Use table at basic prices
+T1611	Table 1611 - Use table for domestic input at basic prices 
+T1612	Table 1612 - Use table for imports at basic prices 
+T1620	Table 1620 - Trade and transport margins
+T1630	Table 1630 - Taxes less subsidies on products
+T1631	Table 1631 - Taxes less subsidies on products - excluding VAT
+T1632	Table 1632 - Value added tax
+T1633	Table 1633 - Taxes on products
+T1634	Table 1634 - Subsidies on products
+T1700	Table 1700 - Symmetric Input-output table (product*product)
+T1750	Table 1700 - Symmetric Input-output table (industry*industry)
+T1800	Table 1800 - Symmetric Input-output table for domestic production (product*product)
+T1850	Table 1850 - Symmetric Input-output table for domestic production (industry*industry)
+T1900	Table 1900 - Symmetric Input-output table for imports (product*product)
+T1950	Table 1950 - Symmetric Input-output table for imports (industry*industry)
+T2000	Table 2000 - Cross-classification of fixed assets by industry and by asset
+T2200	Table 2200 - Cross-classification of gross fixed capital formation by industry and by asset
+T2500	Table 2500 - Quarterly non-financial accounts for general government
+T2600	Table 2600 - Balance sheets for non-financial assets
+T2700	Table 2700 - Quarterly financial accounts of general government
+T2800	Table 2800 - Quarterly government debt (Maastricht debt)
+T2899	Table 2899 - Quarterly intergovernmental lending by counter-party government
+T2900	Table 2900 - Pension schemes in social insurance: base case
+T2901	Table 2901 - Pension schemes in social insurance: sensitivity analysis 1
+T2902	Table 2902 - Pension schemes in social insurance: sensitivity analysis 2
+T7HH	Table 7HH - Households' assets and liabilities
+T7II	Table 7II - Institutional investors

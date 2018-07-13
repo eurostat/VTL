@@ -1,0 +1,51 @@
+transformation	label_en
+_Z	Not applicable
+A1	Average, period on period
+A12	12-period moving average
+A3	3-period moving average
+A4	4-period moving average
+A6	6-period moving average
+C12	12-period cumulated sum
+C16	16 period cumulated sum
+C3	3-period cumulated sum
+C4	4-period cumulated sum
+C4G	Growth rate, period on period, over 4-period cumulated sum
+C6	6-period cumulated sum 
+CY	Cumulated sum, over 1 year
+D1	Differences, period on period, first order
+D1D1	Differences, period on period, second order
+D4	Difference period on 4 periods, first order
+DY	Difference, over 1 year
+F1	Growth rate, flow over stock, period on period
+F12	Growth rate, flow over stock over 12 periods
+F3	Growth rate , flow over stock ,over 3 periods
+F4	Growth rate , flow over stock over 4 periods
+F6	Growth rate, flow over stock over 6 periods
+FO1	Contribution to growth rate, flow over stock, period on period 
+FO12	Contribution to growth rate, flow over stock, over 12  periods
+FO16	Contribution to growth rate, flow over stock, over 16 periods
+FO3	Contribution to growth rate, flow over stock, over 3 periods 
+FO4	Contribution to growth rate, flow over stock, over 4 periods
+FO6	Contribution to growth rate, flow over stock, over 6 periods
+FY	Growth rate, flow over stock, over 1 year
+G1	Growth rate, period on period
+G10	Growth rate, over 10 periods
+G12	Growth rate over 12 periods
+G3	Growth rate over 3 periods
+G3Y	Growth rate, over 3 years
+G4	Growth rate over 4 periods
+G4Y	Growth rate, over 4 years
+G6	Growth rate over 6 periods
+GC10Y	Compound growth rate, over 10 years
+GC5Y	Compound growth rate, over 5 years
+GO1	Contribution to growth rate, period on period
+GO12	Contribution to growth rate, over 12 periods
+GO3	Contribution to growth rate, over 3 periods
+GO4	Contribution to growth rate, over  4 periods
+GO6	Contribution to growth rate, over 6 periods
+GOY	Contribution to growth rate, over 1 year
+GR	Growth rate, over reference year
+GY	Growth rate, over 1 year
+LA	Annual levels
+N	Non transformed data
+R1	Revisions, difference to last transmission period

@@ -1,0 +1,24 @@
+// drop all valuedomains
+
+drop dataset na_main purge ;
+drop dataset derog_na_main purge ;
+drop valuedomain freq purge ;
+drop valuedomain adjustment purge ;
+drop valuedomain ref_area purge ;
+drop valuedomain counterpart_area purge ;
+drop valuedomain ref_sector purge ;
+drop valuedomain counterpart_sector purge ;
+drop valuedomain accounting_entry purge ;
+drop valuedomain sto purge ;
+drop valuedomain instr_asset purge ;
+drop valuedomain activity purge ;
+drop valuedomain expenditure purge ;
+drop valuedomain unit_measure purge ;
+drop valuedomain prices purge ;
+drop valuedomain transformation purge ;
+drop valuedomain ref_year_price purge ;
+drop valuedomain obs_status purge ;
+drop valuedomain conf_status purge ;
+drop valuedomain table_identifier purge ;
+drop valuedomain compliance purge ;
+

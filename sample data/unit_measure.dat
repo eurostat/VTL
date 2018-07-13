@@ -1,0 +1,407 @@
+unit_measure	label_en
+XXCF	Exchange rate: currency of area per currency of counterpart area with conversion factor to fixed exchange rate series
+XXCFA	Exchange rate (average): currency of area per currency of counterpart area with conversion factor to fixed exchange rate series
+XXCFE	Exchange rate (end of period): currency of area per currency of counterpart area with conversion factor to fixed exchange rate series
+EUR_R_SAL_HW	Euro; ratio to employees in hours worked
+EUR_R_SAL_PS	Euro; ratio to employees in persons
+PE_R_SAL_HW	Euro, converted using purchasing power parities; ratio to employees in hours worked
+PE_R_SAL_PS	Euro, converted using purchasing power parities; ratio to employees in persons
+_T	All currencies
+_X	Not specified
+_Z	Not applicable
+ADF	Andorran franc (1-1 peg to the French franc)
+ADP	Andorran peseta (1-1 peg to the Spanish peseta)
+AED	United Arab Emirates dirham
+AFA	Afghanistan afghani (old)
+AFN	Afghanistan, Afghanis
+ALL	Albanian lek
+AMD	Armenian dram
+ANG	Netherlands Antillean guilder
+AOA	Angolan kwanza
+AON	Angolan kwanza (old)
+AOR	Angolan kwanza readjustado (old)
+ARS	Argentine peso
+ATS	Austrian schilling
+AUD	Australian dollar
+AWG	Aruban florin/guilder
+AZM	Azerbaijanian manat (old)
+AZN	Azerbaijan, manats
+BAM	Bosnia-Hezergovinian convertible mark
+BBD	Barbados dollar
+BDT	Bangladesh taka
+BEF	Belgian franc
+BEL	Belgian franc (financial)
+BGL	Bulgarian lev (old)
+BGN	Bulgarian lev
+BHD	Bahraini dinar
+BIF	Burundi franc
+BMD	Bermudian dollar
+BND	Brunei dollar
+BOB	Bolivian boliviano
+BRL	Brazilian real
+BSD	Bahamas dollar
+BTN	Bhutan ngultrum
+BWP	Botswana pula
+BYB	Belarussian rouble (old)
+BYR	Belarus, Rubles
+BZD	Belize dollar
+CAD	Canadian dollar
+CD	National currency per US dollar (unit for exchange rates and PPP)
+CDF	Congo franc (ex Zaire)
+CE	National currency per Euro (unit for exchange rates and PPP)
+CHE	WIR Euro
+CHF	Swiss franc
+CHW	WIR Franc
+CLF	Unidades de fomento
+CLP	Chilean peso
+CNY	Chinese yuan renminbi
+COP	Colombian peso
+COU	Unidad de Valor Real
+CRC	Costa Rican colon
+CSD	Serbian dinar (old)
+CUP	Cuban peso
+CVE	Cape Verde escudo
+CYP	Cypriot pound
+CZK	Czech koruna
+DEM	German mark
+DJF	Djibouti franc
+DKK	Danish krone
+DOP	Dominican peso
+DY	Days
+DZD	Algerian dinar
+E0	Euro area changing composition vis-a-vis the EER-12 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB and US)
+E1	Euro area-18 countries vis-a-vis the EER-20 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, LT, HU, PL, RO, HR and CN)
+E2	Euro area-18 countries vis-a-vis the EER-19 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, LT, HU, PL, RO, and CN)
+E3	Euro area-18 countries vis-a-vis the EER-39 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, LT, HU, PL, RO, CN, DZ, AR, BR, CL, HR, IS, IN, ID, IL, MY, MX, MA, NZ, PH, RU, ZA, TW, TH, TR and VE)
+E4	Euro area-18 countries vis-a-vis the EER-12 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB and US)
+E5 	Euro area-19 countries vis-a-vis the EER-19 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, HU, PL, RO, HR and CN)
+E6 	Euro area-19 countries vis-a-vis the EER-18 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, HU, PL, RO, and CN)
+E7 	Euro area-19 countries vis-a-vis the EER-38 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, HU, PL, RO, CN, DZ, AR, BR, CL, HR, IS, IN, ID, IL, MY, MX, MA, NZ, PH, RU, ZA, TW, TH, TR and VE)
+E8 	Euro area-19 countries vis-a-vis the EER-12 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB and US)
+ECS	Ecuador sucre (old)
+EEK	Estonian kroon
+EGP	Egyptian pound
+ERN	Erytrean nafka
+ESP	Spanish peseta
+ETB	Ethiopian birr
+EUR	Euro
+EUR_R_ACTIVITY	Euro; ratio to total activity
+EUR_R_B1G	Euro; ratio to gross value added
+EUR_R_B1GQ	Euro; ratio to gross domestic product
+EUR_R_B1GQ_L	Euro; ratio to gross domestic product (chained linked volume)
+EUR_R_B1GQ_LA	Euro; ratio to gross domestic product (annual levels)
+EUR_R_B2	Euro; ratio to EU15
+EUR_R_B4	Euro; ratio to EU27
+EUR_R_B5	Euro; ratio to EU28
+EUR_R_F5	Euro; ratio to equity and investment fund shares 
+EUR_R_I6	Euro; ratio to Euro Area 17
+EUR_R_I7	Euro; ratio to Euro Area 18
+EUR_R_I8	Euro; ratio to Euro Area 19
+EUR_R_POP	Euro; ratio to total population
+EUR_R_U2	Euro; ratio to Euro Area (changing composition)
+FIM	Finnish markka
+FJD	Fiji dollar
+FKP	Falkland Islands pound
+FRF	French franc
+FT	Full time equivalent
+FT_R_ACTIVITY	Full time equivalents; ratio to total activity
+GBP	UK pound sterling
+GEL	Georgian lari
+GGP	Guernsey, Pounds
+GHC	Ghanaian cedi (old)
+GHS	Ghana Cedi
+GIP	Gibraltar pound
+GMD	Gambian dalasi
+GNF	Guinea franc
+GR	Grams
+GRD	Greek drachma
+GTQ	Guatemalan quetzal
+GWP	Guinea-Bissau Peso
+GYD	Guyanan dollar
+H1	Euro area 18's currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, CY, EE, LV,  MT, SK)
+H10 	ECB EER-38 group of currencies and Euro area (latest composition) currencies (FR,BE,LU,NL,DE,IT,IE,PT,ES,FI,AT,GR,SI,AU,CA,CN,DK,HK,JP,NO,SG,KR,SE,CH,GB,US,CY,CZ,EE,HU,LV,LT,MT,PL,SK,BG,RO,NZ,DZ,AR,BR,HR,IN,ID,IL,MY,MX,MA,PH,RU,ZA,TW,TH,TR,IS,CL,VE)
+H11 	ECB EER-19 group of currencies and Euro area (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO, HR)
+H2	ECB EER-12 group of currencies and Euro area's (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, CY, EE, LV,  MT, SK, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US)
+H3	ECB EER-20 group of currencies and Euro area's (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO)
+H36	European Commission IC-36 group of currencies (European Union 27 Member States, i.e. BE, DE, EE, GR, ES, FR, IE, IT, CY, LU, NL, MT, AT, PT, SI, SK, FI, BG, CZ, DK, LV, LT, HU, PL, RO, SE, GB, and US, AU, CA, JP, MX, NZ, NO, CH, TR)
+H37	European Commission IC-37 group of currencies (European Union 28 Member States, i.e. BE, DE, EE, GR, ES, FR, IE, IT, CY, LU, NL, MT, AT, PT, SI, SK, FI, BG, CZ, DK, HR, LV, LT, HU, PL, RO, SE, GB, and US, AU, CA, JP, MX, NZ, NO, CH, TR)
+H4	ECB EER-40 group of currencies and Euro area's (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO, NZ, DZ, AR, BR, HR, IN, ID, IL, MY, MX, MA, PH, RU, ZA, TW, TH, TR, IS, CL, VE)
+H5	ECB EER-21 group of currencies and Euro area's (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO, HR)
+H6	ECB EER-12 group of currencies and Euro area's  (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO, HR, TR and RU)
+H7 	Euro area 19 currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, CY, EE, LT, LV, MT, SK)
+H8 	ECB EER-12 group of currencies & Euro area (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, CY, EE, LT, US)
+H9 	ECB EER-18 group of currencies and Euro area (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO)
+HKD	Hong Kong dollar
+HKQ	Hong Kong dollar (old)
+HNL	Honduran lempira
+HR	Hours
+HRK	Croatian kuna
+HTG	Haitian gourde
+HUF	Hungarian forint
+HW	Hours worked 
+HW_R_ACTIVITY	Hours worked; ratio to total activity
+IDR	Indonesian rupiah
+IEP	Irish pound
+ILS	Israeli shekel
+IMP	Isle of Man, Pounds
+INR	Indian rupee
+IQD	Iraqi dinar
+IRR	Iranian rial
+ISK	Iceland krona
+ITL	Italian lira
+IX	Index
+JB	Jobs
+JB_R_ACTIVITY	Jobs; ratio to total activity
+JEP	Jersey, Pounds
+JMD	Jamaican dollar
+JOD	Jordanian dinar
+JPY	Japanese yen
+KES	Kenyan shilling
+KG	Kilograms
+KGS	Kyrgyzstan som
+KHR	Kampuchean real (Cambodian)
+KL	Kilolitres
+KMF	Comoros franc
+KPW	Korean won (North)
+KRW	Korean won (Republic)
+KWD	Kuwait dinar
+KYD	Cayman Islands dollar
+KZT	Kazakstan tenge
+LAK	Lao kip
+LBP	Lebanese pound
+LKR	Sri Lanka rupee
+LRD	Liberian dollar
+LSL	Lesotho loti
+LT	Litres
+LTL	Lithuanian litas
+LUF	Luxembourg franc
+LVL	Latvian lats
+LYD	Libyan dinar
+MAD	Moroccan dirham
+MD	Man Days
+MDL	Moldovian leu
+MGA	Madagascar, Ariary
+MGF	Malagasy franc
+MH	Months
+MKD	Macedonian denar
+MMK	Myanmar kyat
+MNT	Mongolian tugrik
+MOP	Macau pataca
+MQ	Square Metres
+MRO	Mauritanian ouguiya
+MTL	Maltese lira
+MUR	Mauritius rupee
+MVR	Maldive rufiyaa
+MWK	Malawi kwacha
+MXN	Mexican peso
+MXP	Mexican peso (old)
+MXV	Mexican Unidad de Inversion (UDI)
+MY	Man Years
+MYR	Malaysian ringgit
+MZM	Mozambique metical (old)
+MZN	Mozambique, Meticais
+NAD	Namibian dollar
+NGN	Nigerian naira
+NIO	Nicaraguan cordoba
+NLG	Netherlands guilder
+NOK	Norwegian krone
+NPR	Nepaleese rupee
+NZD	New Zealand dollar
+OMR	Oman Sul rial
+OZ	Ounces
+PA	Percent per annum
+PAB	Panama balboa
+PC	Percentage change
+PE	Euro, converted using purchasing power parities
+PE_R_B2	Euro, converted using purchasing power parities; ratio to EU15
+PE_R_B4	Euro, converted using purchasing power parities; ratio to EU27
+PE_R_B4_POP	Euro, converted using purchasing power parities; ratio to EU27 per capita
+PE_R_B5	Euro, converted using purchasing power parities; ratio to EU28
+PE_R_B5_EMP_HW	Euro, converted using purchasing power parities; ratio to EU28 hours worked
+PE_R_B5_EMP_PS	Euro, converted using purchasing power parities; ratio to EU28 persons employed
+PE_R_B5_POP	Euro, converted using purchasing power parities; ratio to EU28 per capita
+PE_R_I6	Euro, converted using purchasing power parities; ratio to EuroArea 17
+PE_R_I7	Euro, converted using purchasing power parities; ratio to Euro Area 18
+PE_R_I7_EMP_HW	Euro, converted using purchasing power parities; ratio to Euro Area 18 hours worked
+PE_R_I7_EMP_PS	Euro, converted using purchasing power parities; ratio to Euro Area 18 persons employed
+PE_R_I8	Euro, converted using purchasing power parities; ratio to Euro Area 19
+PE_R_I8_EMP_HW	Euro, converted using purchasing power parities; ratio to Euro Area 19 hours worked
+PE_R_I8_EMP_PS	Euro, converted using purchasing power parities; ratio to Euro Area 19 persons employed
+PE_R_POP	Euro, converted using purchasing power parities; ratio to total population
+PE_R_U2	Euro, converted using purchasing power parities; ratio to Euro Area (changing composition)
+PEN	Peru nuevo sol
+PGK	Papua New Guinea kina
+PHP	Philippine peso
+PKR	Pakistan rupee
+PLN	Polish zloty
+PLZ	Polish zloty (old)
+PN	Pure number
+PO	Points
+PP	Purchasing power parities
+PS	Persons
+PS_R_ACTIVITY	Persons; ratio to total activity
+PT	Percent
+PTE	Portuguese escudo
+PU	US dollar, converted using purchasing power parities
+PU_R_B1G	US $, PPP converted, ratio to value added
+PU_R_B1G_S11	US $ , PPP converted, ratio to value added of non-financial corporations
+PU_R_B1G_S12	US $, PPP converted, ratio to value added of financial corporations
+PU_R_B1GQ	US $, PPP converted, ratio to gross domestic product
+PU_R_B2G_S11	US $, PPP converted, ratio to gross operating surplus of non-financial corporations
+PU_R_B2G_S12	US $ , PPP converted, ratio to gross operating surplus of financial corporations
+PU_R_B6G_S1M	US $, PPP converted, ratio to household and NPISH gross disposable income
+PU_R_B6N_S1M	US $, PPP converted, ratio to household and NPISH net disposable income
+PU_R_F_S1M	US $, PPP converted, ratio to total household and NIPSH financial assets
+PU_R_OTE	US $, PPP converted, ratio to total expenditure of General Government
+PU_R_P31_S1M_D	US $, PPP converted, deflated by final consumption of households and NPISH
+PU_R_P41_D	US $, PPP converted, deflated by actual individual consumption
+PU_R_P51G	US $, PPP converted, ratio to GFCF
+PU_R_POP	Per capita, US $, PPP converted
+PU_R_POP_PU_6O	Index per capita, US $, PPP converted,  OECD = 100
+PYG	Paraguay guarani
+QAR	Qatari rial
+RO	Ratio
+ROL	Romanian leu (old)
+RON	Romanian leu
+RSD	Serbian Dinar
+RT	Interest rate
+RUB	Russian rouble
+RUR	Russian ruble (old)
+RWF	Rwanda franc
+SAR	Saudi riyal
+SBD	Solomon Islands dollar
+SCR	Seychelles rupee
+SDD	Sudanese dinar (old)
+SDG	Sudan, Dinars
+SDP	First sudanese Pound
+SEK	Swedish krona
+SGD	Singapore dollar
+SHP	St. Helena pound
+SIT	Slovenian tolar
+SKK	Slovak koruna
+SLL	Sierra Leone leone
+SOS	Somali shilling
+SPL	Seborga, Luigini
+SRD	Suriname, Dollars
+SRG	Suriname guilder (old)
+SSP	South Sudanese Pound
+STD	Sao Tome and Principe dobra
+SVC	El Salvador colon
+SYP	Syrian pound
+SZL	Swaziland lilangeni
+THB	Thai baht
+TJR	Tajikistan rouble (old)
+TJS	Tajikistan, Somoni
+TMM	Turkmenistan manat
+TMT	Turkmenistan New Manat
+TN	Tonnes
+TND	Tunisian dinar
+TOP	Tongan paanga
+TPE	East Timor escudo (old)
+TRL	Turkish lira (old)
+TRY	Turkish lira
+TTD	Trinidad and Tobago dollar
+TVD	Tuvalu Dollars
+TWD	New Taiwan dollar
+TZS	Tanzania shilling
+UAH	Ukraine hryvnia
+UGX	Uganda Shilling
+USD	US dollar
+USD_R_CA 	Dollars; Ratio to Current account
+USD_R_GS	Dollars; Ratio to Total goods and services
+USD_R_POP	Per capita, US $, exchange rates converted
+UT	Unit described in title
+UYI	Uruguay Peso en Unidades Indexadas
+UYU	Uruguayan peso
+UZS	Uzbekistan sum
+VEB	Venezuela bolivar (old)
+VEF	Venezuelan bolivar fuerte
+VND	Vietnamese dong
+VUV	Vanuatu vatu
+WST	Samoan tala
+X1	All currencies except national domestic currency
+X2	All currencies except: USD
+X3	All currencies except EUR
+X4	All currencies except: EUR, USD
+X5	All currencies except: EUR,  JPY, USD
+X6	All currencies except: EUR, CHF, GBP, JPY, USD 
+X7	All currencies except: EUR, USD, JPY, GBP, CHF, domestic currency
+XAF	CFA franc / BEAC
+XAG	Silver
+XAU	Gold
+XBA	Bond Markets Unit European Composite Unit (EURCO)
+XBB	Bond Markets Unit European Monetary Unit (E.M.U.-6)
+XBC	Bond Markets Unit European Unit of Account 9 (E.U.A.-9)
+XBD	Bond Markets Unit European Unit of Account 17 (E.U.A.-17)
+XCD	Eastern Caribbean dollar
+XDB	Currencies included in the SDR basket, gold and SDRs
+XDC	Domestic currency (incl. conversion to current currency made using a fixed parity)
+XDC_R_B1G	Domestic currency (incl. conversion to current currency made using a fix parity); ratio to gross value added
+XDC_R_B1G_CY	Domestic currency (incl. conversion to current currency made using a fix parity); ratio to annual moving sum of sector specific gross value added
+XDC_R_B1G_S11	percentage of value added of non-financial corporations
+XDC_R_B1G_S12	percentage of value added of financial corporations
+XDC_R_B1GQ	Domestic currency (incl. conversion to current currency made using a fix parity); ratio to gross domestic product
+XDC_R_B1GQ_CY	Domestic currency (incl. conversion to current currency made using a fix parity); ratio to the annual moving sum of gross domestic product
+XDC_R_B1GQ_L	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to gross domestic product (chained linked volume)
+XDC_R_B1GQ_LA	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to gross domestic product (annual levels)
+XDC_R_B1N	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to net value added
+XDC_R_B1N_CY	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to annual moving sum of sector specific net value added
+XDC_R_B2G_S11	percentage of gross operating surplus of non-financial corporations
+XDC_R_B2G_S12	percentage of gross operating surplus of financial corporations
+XDC_R_B6G_CY	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to the annual moving sum of sector specific gross disposable income
+XDC_R_B6G_POP	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to per capita sector specific gross disposable income
+XDC_R_B6G_S1M	percentage of household and NPISH gross disposable income
+XDC_R_B6GA_CY	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to the annual moving sum of sector specific gross disposable income, adjusted for the change in net equity of households in pension funds reserves
+XDC_R_B6GA_POP	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to per capita sector specific gross disposable income, adjusted for the change in net equity of households in pension funds reserves
+XDC_R_B6N_S1M	percentage of household and NPISH net disposable income
+XDC_R_EMP	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to total employment
+XDC_R_EMP_HW	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to total employment in hours worked
+XDC_R_EMP_PS	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to total employment in persons
+XDC_R_F	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to sector specific assets/liabilities
+XDC_R_F_S1M	percentage of total household and NIPSH financial assets
+XDC_R_F5	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to equity and investment fund shares
+XDC_R_F5_L	Number of times of liability of equity and investment fund shares
+XDC_R_F51_L	Number of times of liability of equity
+XDC_R_FD	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to sector specific financing
+XDC_R_FI	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to sector specific financial investment
+XDC_R_GD	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to Maastricht debt
+XDC_R_GF10	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to total expenditure in social protection
+XDC_R_I7	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to Euro area 18
+XDC_R_I8	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to Euro area 19
+XDC_R_OTE	percentage of total expenditure of General Government
+XDC_R_P31_S1M_D	national currency, deflated by final consumption of households and NPISH
+XDC_R_P41_D	national currency, deflated by actual individual consumption
+XDC_R_P51G	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to Gross fixed capital formation
+XDC_R_POP	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to total population
+XDC_R_SAL_HW	Domestic currency (incl conversion to current currency made using a fixed parity); ratio to employees in hours worked
+XDC_R_SAL_PS	Domestic currency (incl. conversion to current currency made using a fixed parity); ratio to employees in persons
+XDM	Domestic currency (incl. conversion to current currency made using market exchange rate)
+XDN	Domestic currency (currency previously used by a country before joining a Monetary Union)
+XDO	Other currencies not included in the SDR basket, exc. gold and SDRs
+XDR	Special Drawing Rights (S.D.R.)
+XEU	European Currency Unit (E.C.U.)
+XFO	Gold-Franc
+XFU	UIC-Franc
+XGO	Gold fine troy ounces
+XNC	Euro area non-participating foreign currency
+XOF	CFA franc / BCEAO
+XPC	Euro area participating foreign currency
+XPD	Palladium
+XPF	Pacific franc
+XPT	Platinum
+XSU	Sucre
+XTS	Codes specifically reserved for testing purposes
+XUA	ADB Unit of Account
+XXEXA	Exchange rate (average): currency of area per currency of counterpart area
+XXEXE	Exchange rate (end of period): currency of area per currency of counterpart area
+XXPP	Purchasing power parities: currency of area per currency of counterpart area
+XXX	Transactions where no currency is involved
+YER	Yemeni rial
+YR	Years
+YUM	Yugoslav dinar (old)
+ZAR	South African rand
+ZMK	Zambian kwacha
+ZWD	Zimbabwe dollar
+ZWL	Fourth zimbabwe dollar
+ZWN	Zimbabwe dollars (old)
+ZWR	Third zimbabwe dollar

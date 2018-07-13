@@ -1,0 +1,132 @@
+////////////	Create value domains (code lists)
+
+define valuedomain freq is
+ identifier freq string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain adjustment is
+ identifier adjustment string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain ref_area is
+ identifier ref_area string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain counterpart_area is
+ identifier counterpart_area string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain ref_sector is
+ identifier ref_sector string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain counterpart_sector is
+ identifier counterpart_sector string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain accounting_entry is
+ identifier accounting_entry string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain sto is
+ identifier sto string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain instr_asset is
+ identifier instr_asset string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+
+define valuedomain activity is
+ identifier activity string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+
+define valuedomain expenditure is
+ identifier expenditure string ( 20 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+
+define valuedomain unit_measure is
+ identifier unit_measure string ( 20 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain prices is
+ identifier prices string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain transformation is
+ identifier transformation string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain ref_year_price is
+ identifier ref_year_price string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain obs_status is
+ identifier obs_status string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain conf_status is
+ identifier conf_status string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain table_identifieris
+ identifier table_identifier string ( 20 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+define valuedomain compliance is
+ identifier compliance string ( 10 ) ;
+ measure label_en string ( 1000 )
+end valuedomain ;
+////////////	Load descriptions (labels) into the value domains
+
+load "P:\VIP_Validation\VTL\NA\Create objects\freq.dat" into freq autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\adjustment.dat" into adjustment autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\ref_area.dat" into ref_area autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\counterpart_area.dat" into counterpart_area autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\ref_sector.dat" into ref_sector autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\counterpart_sector.dat" into counterpart_sector autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\accounting_entry.dat" into accounting_entry autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\sto.dat" into sto autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\instr_asset.dat" into instr_asset autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\activity.dat" into activity autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\expenditure.dat" into expenditure autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\unit_measure.dat" into unit_measure autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\prices.dat" into prices autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\transformation.dat" into transformation autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\obs_status.dat" into obs_status autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\conf_status.dat" into conf_status autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\table_identifier.dat" into table_identifier autoextend ;
+load "P:\VIP_Validation\VTL\NA\Create objects\compliance.dat" into compliance autoextend ;
+
+
+////////////	Create dataset na_main
+
+define dataset na_main is 
+identifier	freq	freq	;
+identifier	adjustment	adjustment	;
+identifier	ref_area	ref_area	;
+identifier	counterpart_area	counterpart_area	;
+identifier	ref_sector	ref_sector	;
+identifier	counterpart_sector	counterpart_sector	;
+identifier	accounting_entry	accounting_entry	;
+identifier	sto	sto	;
+identifier	instr_asset	instr_asset	;
+identifier	activity	activity	;
+identifier	expenditure	expenditure	;
+identifier	unit_measure	unit_measure	;
+identifier	prices	prices	;
+identifier	transformation	transformation	;
+identifier 	ref_year_price	integer ;
+identifier	table_identifier	table_identifier ;
+identifier	time	time_period ;
+measure		obs_value	number	;
+attribute	obs_status	obs_status	;
+attribute	conf_status	 conf_status	;
+attribute	embargo_date	date
+end dataset ;
+
+load "P:\VIP_Validation\VTL\NA\Create objects\NAMAIN_T0101 bad.dat" into na_main autoextend ;
+
+

@@ -956,7 +956,7 @@ static Node parseCmd ( ) throws VTLError
 		hd.info = lineNumber ;  
 	}
 	else {
-		if ( VTLMain.vtlOnly )
+		if ( VTLMain.vtl20only )
 			VTLError.InternalError( "Option vtlonly: cannot execute statements other than := and <-");
 		tok = Commands.NameCommands [ tok ] ; 
 		hd = p = Parser.newnode ( ( short ) tok ) ;
@@ -1233,7 +1233,7 @@ static DatasetComponent evalDatasetComponent ( Node p ) throws VTLError
 	// length (for string data type)
 	pWidth = p.child_3(); 
 	if ( pWidth.name != Nodes.N_EMPTY ) {
-	    if ( ! cType.equals ( "string" ) )					// this check is carried out also in the parser
+	    if ( cType.equals ( "string" ) )					// this check is carried out also in the parser
 	    	c.compWidth = Integer.parseInt ( pWidth.val ) ; 
 	}
 	
@@ -2038,6 +2038,8 @@ static void setLastQueryColumnIsInteger ( ) throws VTLError
 
 static final boolean getLastQueryColumnIsInteger ( int idx )
 {
+	if ( sqlQueryCommandQuery == null )
+		return ( false ) ;
 	return ( lastQueryColumnIsInteger[idx] ) ;
 }
 

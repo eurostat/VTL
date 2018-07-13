@@ -821,7 +821,11 @@ public static void colDesc ( Dataset ds, ListString columns, boolean file_header
 			case "number" : columnDataTypeLength [idx] = -1 ; break ;
 			case "date" : columnDataTypeLength [idx] = -2 ; break ;
 			case "time_period" : columnDataTypeLength [idx] = -3 ; break ;
-			case "string" : columnDataTypeLength [idx] = Dataset.getValuedomainBaseWidth( c.compType ) ; break ;
+			case "string" : if ( Check.isPredefinedType(c.compType) )
+								columnDataTypeLength [idx] = c.compWidth ;
+							else
+								columnDataTypeLength [idx] = Dataset.getValuedomainBaseWidth( c.compType ) ; 
+							break ;
 			default : VTLError.InternalError( "case not implemented");
 		}
 		columnCanBeNull [ idx ] = c.canBeNull ;
@@ -1112,8 +1116,7 @@ public static void loadDataFile ( String fileName, String tableName, String opti
 	        
 	        	for ( int idx = 0; idx < fields.length; idx ++ ) {
 	        		String tmp = fields[idx].trim() ;	
-	        		sqlStatement.setString ( idx + 1, tmp ) ;	
-
+	        		
 	        		if ( tmp != null && tmp.length() > 0 )					// count not null values for all properties (dimensions cannot be null)
 	        			countNotNulls [ idx ] ++ ;
 		        	if ( idx == dim_index_time_period ) {					// compute time period min. and max.
@@ -1170,10 +1173,12 @@ public static void loadDataFile ( String fileName, String tableName, String opti
 		        		
 		        		if ( fileHeaderIsDim [ idx ] == false )
 		        			allPropertiesNull = false ;
+		        		sqlStatement.setString ( idx + 1, fields [ idx ] ) ;		// value of this file has been possibly changed
 	        		}
 	        		else {
 	        			if ( columnCanBeNull [ idx ] == false )
 	        				VTLError.RunTimeError( "Value of not null measure/attribute is null: " + fields [ idx ] ) ;
+		        		sqlStatement.setString ( idx + 1, null ) ;	
 	        		}
 	        	}
 	        	

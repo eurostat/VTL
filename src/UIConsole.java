@@ -1115,7 +1115,7 @@ static void wizard (  ) throws VTLError
 		
 		if ( ls.size() > 1 ) {
 			if ( op.equals ("Statement") || op.equals ("DL") ) {
-				if ( VTLMain.vtlOnly ) {
+				if ( VTLMain.vtl20only ) {
 					ListString lsVtlOnly = new ListString ( ) ;
 					for ( String s : ls ) {
 						if ( ! s.startsWith("(+)" ) )

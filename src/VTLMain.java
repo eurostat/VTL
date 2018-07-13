@@ -109,7 +109,7 @@ public static void main ( String [] args )
 	if ( idx > 0 )
 		db = db.substring( idx + 1 ) ;
 	db = db.toLowerCase() ;
-	UIConsole.setConsole("VTL Sandbox version 2.0 - " + args[1] + "@" + db ) ;
+	UIConsole.setConsole( "VTL Sandbox version 3.0 - " + args[1] + "@" + db ) ;
 }
 
 }

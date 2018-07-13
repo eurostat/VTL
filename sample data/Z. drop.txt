@@ -1,4 +1,4 @@
-// drop all valuedomains
+// execute the following to drop all valuedomains 
 
 drop dataset na_main purge ;
 drop dataset derog_na_main purge ;

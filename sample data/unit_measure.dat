@@ -74,10 +74,10 @@ E1	Euro area-18 countries vis-a-vis the EER-20 group of trading partners (AU, CA
 E2	Euro area-18 countries vis-a-vis the EER-19 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, LT, HU, PL, RO, and CN)
 E3	Euro area-18 countries vis-a-vis the EER-39 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, LT, HU, PL, RO, CN, DZ, AR, BR, CL, HR, IS, IN, ID, IL, MY, MX, MA, NZ, PH, RU, ZA, TW, TH, TR and VE)
 E4	Euro area-18 countries vis-a-vis the EER-12 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB and US)
-E5 	Euro area-19 countries vis-a-vis the EER-19 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, HU, PL, RO, HR and CN)
-E6 	Euro area-19 countries vis-a-vis the EER-18 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, HU, PL, RO, and CN)
-E7 	Euro area-19 countries vis-a-vis the EER-38 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, HU, PL, RO, CN, DZ, AR, BR, CL, HR, IS, IN, ID, IL, MY, MX, MA, NZ, PH, RU, ZA, TW, TH, TR and VE)
-E8 	Euro area-19 countries vis-a-vis the EER-12 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB and US)
+E5	Euro area-19 countries vis-a-vis the EER-19 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, HU, PL, RO, HR and CN)
+E6	Euro area-19 countries vis-a-vis the EER-18 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, HU, PL, RO, and CN)
+E7	Euro area-19 countries vis-a-vis the EER-38 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, BG, CZ, HU, PL, RO, CN, DZ, AR, BR, CL, HR, IS, IN, ID, IL, MY, MX, MA, NZ, PH, RU, ZA, TW, TH, TR and VE)
+E8	Euro area-19 countries vis-a-vis the EER-12 group of trading partners (AU, CA, DK, HK, JP, NO, SG, KR, SE, CH, GB and US)
 ECS	Ecuador sucre (old)
 EEK	Estonian kroon
 EGP	Egyptian pound
@@ -119,8 +119,8 @@ GTQ	Guatemalan quetzal
 GWP	Guinea-Bissau Peso
 GYD	Guyanan dollar
 H1	Euro area 18's currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, CY, EE, LV,  MT, SK)
-H10 	ECB EER-38 group of currencies and Euro area (latest composition) currencies (FR,BE,LU,NL,DE,IT,IE,PT,ES,FI,AT,GR,SI,AU,CA,CN,DK,HK,JP,NO,SG,KR,SE,CH,GB,US,CY,CZ,EE,HU,LV,LT,MT,PL,SK,BG,RO,NZ,DZ,AR,BR,HR,IN,ID,IL,MY,MX,MA,PH,RU,ZA,TW,TH,TR,IS,CL,VE)
-H11 	ECB EER-19 group of currencies and Euro area (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO, HR)
+H10	ECB EER-38 group of currencies and Euro area (latest composition) currencies (FR,BE,LU,NL,DE,IT,IE,PT,ES,FI,AT,GR,SI,AU,CA,CN,DK,HK,JP,NO,SG,KR,SE,CH,GB,US,CY,CZ,EE,HU,LV,LT,MT,PL,SK,BG,RO,NZ,DZ,AR,BR,HR,IN,ID,IL,MY,MX,MA,PH,RU,ZA,TW,TH,TR,IS,CL,VE)
+H11	ECB EER-19 group of currencies and Euro area (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO, HR)
 H2	ECB EER-12 group of currencies and Euro area's (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, CY, EE, LV,  MT, SK, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US)
 H3	ECB EER-20 group of currencies and Euro area's (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO)
 H36	European Commission IC-36 group of currencies (European Union 27 Member States, i.e. BE, DE, EE, GR, ES, FR, IE, IT, CY, LU, NL, MT, AT, PT, SI, SK, FI, BG, CZ, DK, LV, LT, HU, PL, RO, SE, GB, and US, AU, CA, JP, MX, NZ, NO, CH, TR)
@@ -128,9 +128,9 @@ H37	European Commission IC-37 group of currencies (European Union 28 Member Stat
 H4	ECB EER-40 group of currencies and Euro area's (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO, NZ, DZ, AR, BR, HR, IN, ID, IL, MY, MX, MA, PH, RU, ZA, TW, TH, TR, IS, CL, VE)
 H5	ECB EER-21 group of currencies and Euro area's (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO, HR)
 H6	ECB EER-12 group of currencies and Euro area's  (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO, HR, TR and RU)
-H7 	Euro area 19 currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, CY, EE, LT, LV, MT, SK)
-H8 	ECB EER-12 group of currencies & Euro area (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, CY, EE, LT, US)
-H9 	ECB EER-18 group of currencies and Euro area (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO)
+H7	Euro area 19 currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, CY, EE, LT, LV, MT, SK)
+H8	ECB EER-12 group of currencies & Euro area (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, CY, EE, LT, US)
+H9	ECB EER-18 group of currencies and Euro area (latest composition) currencies (FR, BE, LU, NL, DE, IT, IE, PT, ES, FI, AT, GR, SI, AU, CA, CN, DK, HK, JP, NO, SG, KR, SE, CH, GB, US, CY, CZ, EE, HU, LV, LT, MT, PL, SK, BG, RO)
 HKD	Hong Kong dollar
 HKQ	Hong Kong dollar (old)
 HNL	Honduran lempira
@@ -307,7 +307,7 @@ TZS	Tanzania shilling
 UAH	Ukraine hryvnia
 UGX	Uganda Shilling
 USD	US dollar
-USD_R_CA 	Dollars; Ratio to Current account
+USD_R_CA	Dollars; Ratio to Current account
 USD_R_GS	Dollars; Ratio to Total goods and services
 USD_R_POP	Per capita, US $, exchange rates converted
 UT	Unit described in title

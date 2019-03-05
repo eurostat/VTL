@@ -71,7 +71,7 @@ define valuedomain conf_status is
  identifier conf_status string ( 10 ) ;
  measure label_en string ( 1000 )
 end valuedomain ;
-define valuedomain table_identifieris
+define valuedomain table_identifier is
  identifier table_identifier string ( 20 ) ;
  measure label_en string ( 1000 )
 end valuedomain ;
@@ -129,4 +129,37 @@ end dataset ;
 
 load "P:\VIP_Validation\VTL\NA\Create objects\NAMAIN_T0101 bad.dat" into na_main autoextend ;
 
+////////////	Create dataset derog_main
 
+define dataset derog_na_main is
+identifier	table_identifier	table_identifier;
+identifier	freq	freq	;
+identifier	adjustment	adjustment	;
+identifier	ref_area	ref_area	;
+identifier	counterpart_area	counterpart_area	;
+identifier	ref_sector	ref_sector	;
+identifier	counterpart_sector	counterpart_sector	;
+identifier	accounting_entry	accounting_entry	;
+identifier	sto	sto	;
+identifier	instr_asset	instr_asset	;
+identifier	activity	activity	;
+identifier	expenditure	expenditure	;
+identifier	unit_measure	unit_measure	;
+identifier	prices	prices	;
+identifier	transformation	transformation	;
+measure	obs_value		number	;
+measure	compliance	compliance	; 
+measure	derog_1	integer ;
+measure	derog_2	integer ;
+measure	derog_1_sy1	integer ;
+measure	derog_1_ey1	integer ;
+measure	derog_1_sy2	integer ;
+measure	derog_1_ey2	integer ;
+measure	derog_2_sy1	integer ;
+measure	derog_2_ey1	integer ;
+measure	derog_2_sy2	integer ;
+measure	derog_2_ey2	integer ;
+measure	ref_year_price	integer 
+end dataset ;
+
+load "P:\VIP_Validation\VTL\NA\Create objects\DEROG_NA_MAIN_FINAL.dat" into derog_na_main autoextend ;

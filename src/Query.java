@@ -2332,8 +2332,8 @@ public Dataset convert2ds ( int objectId, String dsName, char object_type ) thro
 }
 
 /*
- * Set list of values of a dimension in the query (if list of values is empty). Used in pivot, hierarchy, fill_time_series.
- * throw exception if expression is based on more than 1 dataset.
+ * Set list of values of a dimension in the query (if list of values is empty). 
+ * Used in pivot, check_hierarchy, hierarchy, fill_time_series.
 	(na_main + na_main2)[ pivot time, obs_value ]
  */
 void setValues ( DatasetComponent dim ) throws VTLError
@@ -2373,6 +2373,8 @@ void setValues ( DatasetComponent dim ) throws VTLError
 		if ( ls2 != null )
 			ls = ls.sort_by_list( ls2 ) ;
 	}
+	// correction version 3.1 (for operators fill_time_series, pivot)
+	dim.dim_values = ls ;
 }
 
 /*

@@ -777,8 +777,8 @@ String computeRightSideFormula ( boolean recursive, boolean setZeroValue, int id
  * when the same element is the left part of multiple left sides: use the first equation (ignore the others)
  * use the computed value if not null otherwise use the value of the left side in the dataset (the check operator implements the opposite)
  * aggregate (na_namei, hr_sector)
-test := na_main [sto="B1G",activity="C",freq="A",adjustment="N",ref_area="DK",accounting_entry="B",counterpart_area="W2", counterpart_sector="S1",instr_asset="_Z", expenditure="_Z", unit_measure="XDC", prices="L", transformation="N", ref_year_price=2010 ] #obs_value ;
-aggregate ( test , hr_sector)
+test := na_main [sub sto="B1G",activity="C",freq="A",adjustment="N",ref_area="DK",accounting_entry="B",counterpart_area="W2", counterpart_sector="S1",instr_asset="_Z", expenditure="_Z", unit_measure="XDC", prices="L", transformation="N", ref_year_price=2010 ] #obs_value ;
+hierarchy ( test , hr_sector)
  */
 public static Query hierarchy ( Query q, String ruleName, 
 		ListString condComps, String ruleComp,

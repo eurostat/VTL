@@ -1027,11 +1027,7 @@ public static void loadDataFile ( String fileName, String tableName, String opti
 
 	Db.checkConnectionNotReadOnly () ;					
 	
-	tab = Dataset.getDatasetDesc(tableName) ;		
-	
-	// options: default is replace
-	if ( optionData == null )
-		optionData = "replace" ;
+	tab = Dataset.getDatasetDesc(tableName) ;
 
 	switch ( optionData ) {
 		case "replace" : mergeData = false ; break ;

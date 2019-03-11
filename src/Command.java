@@ -1037,26 +1037,27 @@ static Node parseCmd ( ) throws VTLError
 				Lex.readToken( Tokens.Y_PAR_CLOSE );
 				break ;
 
-			case Commands . N_LOAD      :
+			case Commands.N_LOAD      :
 				hd.child = Parser.parseExpression ();
-				Lex . readIdeKeyword ( "into" ) ;
+				Lex.readIdeKeyword ( "into" ) ;
 				hd.addChild ( Parser.parseObjectName( true ) ) ;
-				hd.addChild( Parser.newnode ( Nodes.N_STRING ) );
-				hd.addChild( Parser.newnode ( Nodes.N_STRING ) ) ;
-				hd.addChild( Parser.newnode ( Nodes.N_STRING ) ) ;
-				if ( Lex . readOptionalIdeKeyword ( "merge" ) ) 
-					p.child.next.next.val = "merge" ;
-				else if ( Lex . readOptionalIdeKeyword ( "replace" ) ) 
-					p.child.next.next.val = "replace" ;
-				if ( Lex . readOptionalIdeKeyword ( "autoextend" ) )
-					p.child.next.next.next.val = "autoextend"  ;
-				if ( Lex . readOptionalIdeKeyword ( "fields" ) ) {
+				if ( Lex.readOptionalIdeKeyword ( "merge" ) ) 
+					hd.addChild( Parser.newnode ( Nodes.N_STRING, "merge" ) ) ;
+				else if ( Lex.readOptionalIdeKeyword ( "replace" ) ) 
+					hd.addChild( Parser.newnode ( Nodes.N_STRING, "replace" ) ) ;
+				else
+					hd.addChild( Parser.newnode ( Nodes.N_STRING, "replace" ) ) ;	// this is the default
+				if ( Lex.readOptionalIdeKeyword ( "autoextend" ) )
+					hd.addChild( Parser.newnode ( Nodes.N_STRING, "autoextend" ) ) ;
+				else
+					hd.addChild( Parser.newnode ( Nodes.N_STRING ) )  ;
+				if ( Lex.readOptionalIdeKeyword ( "fields" ) ) {
 					Lex.readIdeKeyword ( "separated" ) ;
 					Lex.readIdeKeyword ( "by" ) ;
-					p.child.next.next.next.next.val = Lex.nextIdeKeyword() ;  ;
+					hd.addChild( Parser.parseExpression () ) ;
 				}
 				else
-					p.child.next.next.next.next.val = "\t"  ;
+					hd.addChild( Parser.newnode ( Nodes.N_STRING, "\t" ) ) ;
 				break ;
 
 			case Commands.N_PRINT_EXPR :
@@ -2118,10 +2119,8 @@ static void evalSql ( Node p, boolean compile_only ) throws VTLError
 	else {
 		sqlQueryCommandResult = null ;
 		sqlQueryCommandQuery = null ;	
-		VTLError.RunTimeError( "sql: only SELECT statement is allowed" );
-		/*
-		 * Db.sqlExec ( sql_query ) ;
-		 */
+		// VTLError.RunTimeError( "sql: only SELECT statement is allowed" );
+		Db.sqlExec ( sql_query ) ;
 	}
 }
 
@@ -2245,18 +2244,11 @@ end
     	  }
     	  break ;
 	   
-      case Commands.N_LOAD      :
-    	  String tmp = p.child.inteEvalScalar ( ) ;
-    	  if ( p.countChildren() <= 4 ) {
-        	  if ( p.child.next.next.next == null )    		  
-        		  Db.loadDataFile(tmp, p.val, p.child.next.val, ( p.child.next.next.val != null ? true : false ), "\t", compile_only ) ;
-        	  else   		  
-        		  Db.loadDataFile(tmp, p.val, p.child.next.val, ( p.child.next.next.val != null ? true : false ), p.child.next.next.next.val, compile_only ) ;    		  
-    	  }
-    	  else {
-    		  String	ide = p.child.next.evalObjectName() ;
-        	  Db.loadDataFile(tmp, ide, p.child.next.next.val, ( p.child.next.next.next.val != null ? true : false ), p.child.next.next.next.next.val, compile_only ) ;    		      		  
-    	  }
+      case Commands.N_LOAD :
+    	  String	fileName = p.child.inteEvalScalar ( ) ;
+		  String	dsName = p.child_2().evalObjectName() ;
+    	  Db.loadDataFile( fileName, dsName, p.child_3().val, 
+    			  ( p.child_4().val != null ? true : false ), p.child_5().inteEvalScalar ( ), compile_only ) ;    		      		  
     	  break ;
 
       case Commands.N_PRINT_EXPR    :

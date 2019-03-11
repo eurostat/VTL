@@ -13,4 +13,4 @@ Version 3.1 (5 March 2019)
 
 Version for Oracle 12c (VTL ojdbc7.jar)
 
-Version 3.2 (11 MArch 2019, syntax error in load statement)
+Version 3.2 (11 March 2019, syntax error in load statement)

@@ -9,7 +9,11 @@ The sandbox is a simple user interface for learning and testing the VTL language
 Further explanations can be found in the document VTL 2.0 Interpreter and sandbox user interface
 
 Interpreter Versions:
+
 Version 3.1 (5 March 2019)
+
 Version for Oracle 12c (VTL ojdbc7.jar)
+
 Version 3.2 (11 March 2019, syntax error in load statement)
+
 Version 3.3 (12 March 2019, load statement, field names)

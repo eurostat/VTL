@@ -1047,7 +1047,7 @@ public static void loadDataFile ( String fileName, String tableName, String opti
 		infile = new LineNumberReader ( new BufferedReader ( new InputStreamReader ( new FileInputStream ( fileName ), "ISO-8859-1" ) ) ) ;
         if ( ( str = infile.readLine ( ) ) == null )
         	VTLError.RunTimeError ( fileName + ": file is empty" ) ;
-        fields = str.toLowerCase().split( separator ) ;					// convert to lowercase
+        fields = str.split( separator ) ;			// convert to lowercase .toLowerCase() changed v. 3.3
         num_header_items = fields.length ;
     	file_header = new ListString( num_header_items );
     	file_header.addAll ( Arrays.asList(fields ) ) ;

@@ -1495,11 +1495,19 @@ static Query buildQueryFromParameter ( Node hd ) throws VTLError
 		pRole = p.child ;
 		pType = p.child_2() ;
 		pName = p.child_3() ;
+		/** Missing break ? ***
 		switch ( pRole.val ) {
 			case "identifier": q.addDimension(pName.val, pType.val, new ListString());
 			case "measure" 	 : q.addMeasure(pName.val, pType.val, null );
 			case "viral attribute" : 
 			case "attribute" : q.addAttribute(pName.val, pType.val, null);
+		}
+		*** Missing break ? ***/
+		switch ( pRole.val ) {
+			case "identifier": q.addDimension(pName.val, pType.val, new ListString()); break;
+			case "measure" 	 : q.addMeasure(pName.val, pType.val, null );break;
+			case "viral attribute" : 
+			case "attribute" : q.addAttribute(pName.val, pType.val, null);break;
 		}
 	}	
 	return ( q ) ;

@@ -19,3 +19,5 @@ Version 3.2 (11 March 2019, syntax error in load statement)
 Version 3.3 (12 March 2019, load statement, field names)
 
 Version 3.4 (12 April 2019, check_datapoint with valuedomains)
+
+Version 3.5 (29 May 2020, 2 bugs fixed thanks to ddimieri)

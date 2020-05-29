@@ -717,12 +717,24 @@ static String buildTimePeriodOffset( String t, int offset ) throws VTLError
 		default :
 			period = Integer.parseInt ( t.substring( 5 ) ) ;
 			int		subPeriods = 0 ;
+			
+			/**** always 0 or 52 ?  ****
 			switch ( t.charAt(4)) {
 				case 'M' : subPeriods = 12 ;
 				case 'Q' : subPeriods = 4 ;
 				case 'S' : subPeriods = 2 ;
 				case 'W' : subPeriods = 52 ;
 			}
+			
+			**** always 0 or 52 ?  ****/
+			
+			switch ( t.charAt(4)) {
+				case 'M' : subPeriods = 12 ; break;
+				case 'Q' : subPeriods = 4 ;break;
+				case 'S' : subPeriods = 2 ;break;
+				case 'W' : subPeriods = 52 ;break;
+			}
+			
 			year = ( ( year * subPeriods ) + period + offset - 1 ) / subPeriods ;
 			period = ( ( ( year * subPeriods ) + period + offset - 1 ) % subPeriods ) + 1 ;
 			res = year + t.substring( 5 ) + period ;
